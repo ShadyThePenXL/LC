@@ -1,10 +1,8 @@
-**Type:** Skill (Superseded)
-**Previous Holder:** [[Luther Culvert]]
-
----
+Skill [Mantle]
+[Class Skill] (Superseded)
 
 Endurance threshold for sustained physical and metaphysical pressure significantly increased.
 
----
+Merged into [[Adamant]] alongside [[Iron Will]] and [[Anchored]].
 
-**Status:** Merged into [[Adamant]] alongside [[Iron Will]] and [[Anchored]].
+[[Luther Culvert]]

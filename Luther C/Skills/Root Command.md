@@ -1,7 +1,6 @@
-**Type:** Stolen Skill
-**Current Holder:** [[Luther Culvert]]
-**Level:** 4
-
----
+Skill [Root Command]
+[Stolen Skill]
 
 The bearer can manipulate living plant matter within range.
+
+[[Luther Culvert]]

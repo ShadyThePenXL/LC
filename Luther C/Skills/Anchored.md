@@ -1,10 +1,8 @@
-**Type:** Skill (Superseded)
-**Previous Holder:** [[Luther Culvert]]
-
----
+Skill [Anchored]
+[Skill] (Superseded)
 
 The bearer's panic resolves faster, fear settles faster, and their performance under duress holds.
 
----
+Merged into [[Adamant]] alongside [[Iron Will]] and [[Mantle]].
 
-**Status:** Merged into [[Adamant]] alongside [[Iron Will]] and [[Mantle]].
+[[Luther Culvert]]
