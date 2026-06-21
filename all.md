@@ -420,6 +420,8 @@ Luther hit the camp a second time. He battered through a reinforced western barr
 
 Eventually the goblin camp sounded a horn which started pulling them all to the center to group up. Luther made it to the gate [[Cademon Vale|Cademon]]'s group should be at and waited for them to finish killing whatever was out there.
 
+After the assault, Caedmon outfitted the three freed prisoners — [[Sable Mott]], [[Wyn Drace]], [[Pol Harren]] — from Mission Severance supplies. Full chimera leather armor, enchanted boots, Whisperweave cloaks, class-appropriate weapons. Sable received the field surgeon's kit and all medical supplies as the group's only healer. Bevan's leg was treated by Sable with [[Cleansing Touch]] and the Drawing Stone.
+
 ---
 
 # PLAYER STATUS SHEET
@@ -721,197 +723,66 @@ Standard field supplies (scrying tickets, water stone, firestarter, wound powder
 
 ---
 
-### Bevan Roe
-
-Age: 38
-
-Height: 5'11"
-
-Gender: Male
-
-Class/Level: [Trapper] / Level 22
-
-Affiliation: [[Thornwall]] Rangers — [[Deeproot Expedition|Deeproot Patrol]]
-
-Personality: Rough, direct, hurt. Stake through the thigh from a pit trap four days prior, leg going sour. Noticed [[Luther Culvert|Luther]] looking at his leg hungrily. Keeps a knife in hand. Improving — fever broke, looking marginally more alive. Still can't walk fast.
-
-See: [[Caedmon's Group]]
-
----
-
 ### Cademon Vale
-
-Class: [Hunter]  
-Level: 34  
-Previous Class: [Ranger] (Evolved at Level 14)  
-Age: 41  
-Height: 6'1"  
-Gender: Male  
-Affiliation: [[Thornwall]] Military — Scout Division
-
-────────────────
-
-ATTRIBUTES
-
-STR: 32  
-DEX: 133  
-END: 37  
-INT: 66  
-KNO: 18  
-CHARM: 13  
-TECH: 87
-
-Note: STR, END, KNO reflect physical growth from twenty years of active field service. Class leveling feeds DEX, INT, and TECH only.
-
-────────────────
-
-TITLES
-
-Proven Steel — Sword accuracy and defensive timing against armed opponents increased. Close-quarters threat recognition heightened.
-
-Long March — Endurance efficiency during sustained operations improved. Fatigue onset delayed. Physical performance under exhaustion maintained.
-
-────────────────
-
-CLASS SKILLS — [Hunter]
-
-[[Hunter's Archery]] (Level 42) [Upgraded ×2]  
-Arrow velocity, accuracy, and draw speed massively increased. Wind and arc compensation instinctive. Target tracking during draw maintained at combat speed. Shot placement against moving targets at extreme range dramatically improved. Accuracy under severe stress sustained. Penetration through light cover improved. Consecutive shot interval minimized. Viable accuracy from unconventional positions and angles maintained.
-
-[[Hunter's Swordsmanship]] (Level 37)  
-Blade technique, footwork, and defensive reaction with swords significantly increased. Counter-timing against committed attacks improved. Engagement transition between ranged and melee smoothed. Precision targeting of wounded or exposed areas initiated. Stamina efficiency in sustained melee improved.
-
-[[Quarry Trace]] (Level 33)  
-Anything directly observed, heard, or scented is marked and trackable within range. Simultaneous marks maintained at high count. Marked targets tracked through obstacles at moderate range. Signature persistence over time extended. Faint residual traces from departed targets detectable at close range. Marked target movement pattern prediction initiated.
-
-[[Still Presence]] (Level 27)  
-Personal presence and ambient signature suppressed when stationary or during slow deliberate movement. Detection by passive awareness skills reduced. Effectiveness increased in high ambient mana environments. Suppression break threshold from sudden movement raised.
-
-────────────────
-
-GENERAL SKILLS
-
-[[Silent Footing]] (Level 28) — Noise from foot movement on natural terrain substantially reduced. Effectiveness across varied surfaces improved. Speed threshold before noise generation raised.
-
-[[Breath Control]] (Level 26) — Breathing rhythm consciously suppressible for extended duration. Recovery from oxygen debt accelerated. Breathing noise eliminated during suppression. Draw stability during held breath maintained.
-
-[[Overland Navigation]] (Level 30) — Directional sense and landmark recognition in wilderness massively increased. Path efficiency through difficult terrain improved. Position estimation relative to known landmarks accurate at long range.
-
-[[Rope Rigging]] (Level 18) — Knot speed and reliability increased. Load-bearing configuration efficiency improved. Setup time reduced.
-
-[[Fire Starting]] (Level 21) — Ignition speed and reliability with natural materials substantially increased. Effective in adverse conditions. Fuel arrangement for sustained burn improved.
-
-[[Wound Packing]] (Level 15) — Hemorrhage reduction through manual compression and binding increased. Material improvisation improved. Application speed under pressure increased.
-
-────────────────
-
-STAT MATH (for reference)
-
-[Ranger] Levels 2–14 (13 levels): +3 DEX, +1 INT, +1 TECH per level  
-[Hunter] Levels 15–34 (20 levels): +4 DEX, +3 TECH, +2 INT per level
-
-Base → Final from leveling alone:  
-DEX: 14 + 39 + 80 = 133  
-INT: 13 + 13 + 40 = 66  
-TECH: 14 + 13 + 60 = 87
-
-Affiliation: [[Thornwall]] Rangers — [[Deeproot Expedition|Deeproot Patrol]]
-
-Appearance: Tall, lean, weathered. Face of old scars. Layered greens and browns, hide and oiled cloth.
-
-Personality: Careful, competent, dry humor. Patient but has limits. Reads people and forests with equal skill. More years with a blade than a bow. Carries a longbow, long knife, short sword (back sheath). Down to one good arrow plus crude goblin-made replacements.
-
-Key Details: Lost three patrol members (Pell, Harren, and a third unnamed) before [[Luther Culvert|Luther]] arrived. Has been in [[The Deeproot]] for three weeks. Watched Luther's class evolution and told his men plainly what Luther is. Has noticed Luther doesn't know basic things about the world (magic, goblin leveling) but hasn't pushed on it.
-
-See: [[Caedmon's Group]]
-
----
-
-### Pol Harren
-
-Age: 17. 
-Height: 5'9". 
-Male. 
-Class [Trapper]
-Level 14. 
-[[Deeproot Expedition|Group 5]].
-
-The quiet one. Different group than [[Sable Mott|Sable]] and [[Wyn Drace|Wyn]] — he was alone from his team when they caged him. Youngest, lowest level, most shaken. Barely spoke. But he followed, he took the weapon, he stood at the gate. [[Bevan Roe|Bevan]] would have put him to work setting traps immediately. Same class, same skillset.
-
-Freed by [[Luther Culvert]] during the staging ground assault on [[Day 9]].
-
-See: [[Caedmon's Group]]
-
----
-
-### Sable Mott
-
-Age: 24.
-Height: 5'6"
-Female. 
-Class [Scout] Level 21. 
-[[Deeproot Expedition|Group 9]]
-
-Eleven days in a [[Goblin|goblin]] cage and she came out reading the room before asking for help. Calm, measured, professional. Recognized Mithril by touch and titan sap by smell. Moves like her class — low, quiet, deliberate. Silent better than [[Toller Finch|Toller]]. She led her group's survivors through captivity and kept [[Wyn Drace|Wyn]] and [[Pol Harren|Pol]] functional. The steady one.
-
-Freed by [[Luther Culvert]] during the staging ground assault on [[Day 9]].
-
-See: [[Caedmon's Group]]
+Class: [Hunter] Level 34 (evolved from [Ranger] at Level 14). Age 41, Male, 6'1". [[Thornwall]] Military — Scout Division.
+STR 32 / DEX 133 / END 37 / INT 66 / KNO 18 / CHA 13 / TEC 87
+STR, END, KNO from physical growth. Class feeds DEX, INT, TEC only.
+Titles: Proven Steel (sword accuracy/defense vs armed), Long March (endurance efficiency, delayed fatigue).
+Class Skills: [[Hunter's Archery]] (42) [Upgraded ×2], [[Hunter's Swordsmanship]] (37), [[Quarry Trace]] (33), [[Still Presence]] (27).
+General Skills: [[Silent Footing]] (28), [[Breath Control]] (26), [[Overland Navigation]] (30), [[Rope Rigging]] (18), [[Fire Starting]] (21), [[Wound Packing]] (15).
+Stat Math: [Ranger] 2–14 (+3 DEX, +1 INT, +1 TEC/lvl). [Hunter] 15–34 (+4 DEX, +3 TEC, +2 INT/lvl).
+Careful, competent, dry humor. More years with a blade than a bow. Lost three patrol members (Pell, Harren, unnamed) before Luther arrived. Three weeks in [[The Deeproot]]. Knows Luther is an Outerworlder, hasn't pushed on it.
 
 ---
 
 ### Toller Finch
-
-Toller Finch
-
-Age: 19
-
-Height: 5'8"
-
-Gender: Male
-
-Class/Level: [Scout] / Level 17
-
-Affiliation: [[Thornwall]] Rangers — [[Deeproot Expedition|Deeproot Patrol]]
-
-Personality: Young, capable, exhausted. Wary of [[Luther Culvert|Luther]] but following [[Cademon Vale|Caedmon]]'s lead. His signature is so suppressed it barely registers on [[Apex Instinct]]. Operates as the patrol's eyes — marks targets, scouts approaches, finds paths.
-
-See: [[Caedmon's Group]]
+Class: [Scout] Level 17. Age 19, Male, 5'8". [[Thornwall]] Rangers — [[Deeproot Expedition|Deeproot Patrol]].
+STR 22 / DEX 52 / END 26 / INT 46 / KNO 22 / CHA 15 / TEC 18
+Class Skills: [[Suppressed Presence]] (25), [[Pathfinding]] (26), [[Mark Target]] (21), [[Threat Count]] (14).
+General Skills: [[Archery]] (22), [[Quiet Steps]] (15), [[Dexterous Fingers]] (10).
+Young, capable, exhausted. Signature so suppressed it barely registers on [[Apex Instinct]]. The patrol's eyes.
 
 ---
 
-### Trieht Blasterhubt
+### Bevan Roe
+Class: [Trapper] Level 22. Age 38, Male, 5'11". [[Thornwall]] Rangers — [[Deeproot Expedition|Deeproot Patrol]].
+STR 30 / DEX 45 / END 30 / INT 42 / KNO 60 / CHA 14 / TEC 25
+Class Skills: [[Trap Craft]] (22) [Upgraded — can infuse mana into materials and control telekinetically], [[Trigger Setting]] (18), [[Pit Work]] (16), [[Mana Thread]] (9).
+General Skills: [[Knife Fighting]] (14), [[Rope Rigging]] (16), [[Field Dressing]] (12), [[Terrain Reading]] (10).
+Rough, direct. Stake through the thigh from a pit trap, leg was going sour. Treated by [[Sable Mott|Sable]] after rescue.
 
-Age: 971
-Race: Elf
-Height: Unknown
-Gender: Male
-Class/Level: [Archmage] / Level 228
-Affiliation: [[Thornwall]] Military — Strategic Command
+---
 
-Appeared via projection at the [[Deeproot Expedition]] rendezvous point on [[Day 8]]. Delivered supplies and the Mission Severance briefing to [[Cademon Vale|Caedmon]]'s group.
-
-Identified [[Luther Culvert]] immediately via high-level inspection — Outerworlder, [Devourer], [[Greel, God of Greed and Starvation|Greel]]'s mark, [[Murtha, Goddess of the Second Thread|Murtha]]'s thread, Earth origin. Noted that every Outerworlder from Earth he has encountered has been immensely powerful, always god-touched, and "different." Expressed concern about Greel's hunger. Wants to speak with Luther after the mission is complete.
-
-Confirmed all other expedition teams are presumed destroyed. Authorized Mission Severance: proceed to the center of [[The Deeproot]], locate and destroy a mana anomaly, eliminate the controlling [Mage], terminate the ritual.
+### Sable Mott
+Class: [Cleric of Solenne] Level 21 (Rare). Age 24, Female, 5'6". [[Deeproot Expedition|Group 9]].
+STR 25 / DEX 22 / END 45 / INT 80 / KNO 62 / CHA 38 / TEC 15
+Class Skills: [[Mending Light]] (34) [Upgraded ×2 — ranged healing at higher mana cost], [[Bolster]] (15) [Upgraded — multi-target], [[Cleansing Touch]] (9).
+General Skills: [[Combat Bludgeoning]] (14), [[Field Medicine]] (14), [[Liturgical Knowledge]] (10), [[Herb Identification]] (8).
+Eleven days in a goblin cage. Calm, measured, professional. Recognized Mithril by touch. Led survivors through captivity, kept Wyn and Pol functional. The group's only healer. Freed [[Day 9]].
 
 ---
 
 ### Wyn Drace
+Class: [Glasser] Level 19. Age 24, Male, 5'10". [[Deeproot Expedition|Group 9]].
+STR 26 / DEX 30 / END 32 / INT 60 / KNO 58 / CHA 20 / TEC 60
+Class Skills: [[Summon Glass]] (15) [Upgraded — more glass types], [[Shape Glass]] (17) [Upgraded — easier shaping, range increased], [[Heat Protection]] (12).
+General Skills: [[Combat Sharp]] (10), [[Material Assessment]] (13), [[Forge Craft]] (9).
+Reactive. One eye swollen shut. Recognized Hollis Ferrow's smith mark on sight. Primary combat is summoned/shaped glass. Freed [[Day 9]].
 
-Age: 24
-Height: 5'10"
-Male. 
-Class [Ranger] 
-Level 19. 
-[[Deeproot Expedition|Group 9]].
+---
 
-Reactive. Runs hotter than [[Sable Mott|Sable]]. One eye swollen shut. 
-Knows his gear — recognized Hollis Ferrow's smith mark on sight. A [Ranger] means he's [[Cademon Vale|Caedmon]] before the class evolution. Bow is his primary weapon. Hurt but wants to fight.
+### Pol Harren
+Class: [Warrior] Level 14. Age 17, Male, 5'9". [[Deeproot Expedition|Group 5]].
+STR 48 / DEX 32 / END 52 / INT 15 / KNO 15 / CHA 11 / TEC 12
+Class Skills: [[Warrior's Swordsmanship]] (16) [Upgraded], [[Shield Brace]] (14), [[Battle Endurance]] (12), [[Combat Awareness]] (8).
+General Skills: [[Formation Fighting]] (11), [[Endurance]] (9).
+Youngest, lowest level, most shaken. Was alone from his group when caged. Has Shield Brace but no shield in supply drop. Freed [[Day 9]].
 
-Freed by [[Luther Culvert]] during the staging ground assault on [[Day 9]].
+---
 
-See: [[Caedmon's Group]]
+### Trieht Blasterhubt
+Class: [Archmage] Level 228. Age 971, Elf, Male. [[Thornwall]] Military — Strategic Command.
+Appeared via projection on [[Day 8]]. Delivered supplies and Mission Severance briefing. Identified [[Luther Culvert]] immediately — Outerworlder, [Devourer], [[Greel, God of Greed and Starvation|Greel]]'s mark, [[Murtha, Goddess of the Second Thread|Murtha]]'s thread. Confirmed all other expedition teams presumed destroyed.
 
 ---
 
@@ -1509,9 +1380,37 @@ Twenty-five groups deployed simultaneously into [[The Deeproot]] by [[Thornwall]
 - [[Toller Finch]] — [Scout], Level 17
 - [[Bevan Roe]] — [Trapper], Level 22 (injured, improving)
 - [[Luther Culvert]] — [Devourer], Level 12
-- [[Sable Mott]] — [Scout], Level 21 (freed prisoner, Group 9)
-- [[Wyn Drace]] — [Ranger], Level 19 (freed prisoner, Group 9)
-- [[Pol Harren]] — [Trapper], Level 14 (freed prisoner, Group 5)
+- [[Sable Mott]] — [Cleric of Solenne], Level 21, Rare (freed prisoner, Group 9)
+- [[Wyn Drace]] — [Glasser], Level 19 (freed prisoner, Group 9)
+- [[Pol Harren]] — [Warrior], Level 14 (freed prisoner, Group 5)
 
 Seven members. Heading south toward the center of [[The Deeproot]].
+
+---
+
+# SUPPLIES
+
+Mission Severance supplies delivered [[Day 8]] via teleport. Provisioned for 10 personnel / 56 days.
+
+RATIONS: Hardbread, dried meat, travel cake, dried fruit (10-person/56-day). Mineral salt blocks (10). Tea bricks (stimulant blend: addictive, max 2 cups/6 hrs). Water purification stones (10, reusable, mana-replenishing). Enchanted waterskins (10, 5L each). Firestarter kits x10.
+
+MEDICAL: Field surgeon's kit (Coah Metal, self-sterilizing). Wound powder, splinting boards (3), burn salve (4), antitoxin general (6), numbing tincture (4). Low-grade healing potions (20). High-grade healing potions (2). Sevenfold Salve (1 jar — deep trauma, one use per wound). Drawing Stone (1 — pulls inflammation/toxins, reusable). Concentrated antitoxin arcane-spectrum (2 vials — experimental).
+
+ARMOR: Chimera leather cuirass x10 (denser than enchanted steel, half the weight). Vambraces/greaves x10. Gambeson undersuits x10. Enchanted boots x10 (unbreakable, auto-sizing). Whisperweave Cloaks x10 (muffles movement sound, dulls outline in low light — concealment aid, not concealment). Stormward Clasps x3 (absorbs one electrical/concussive hit, rechargeable).
+
+WEAPONS (MASTER-SMITH, Hollis Ferrow): Shortswords x5, Longswords x3, Heavy mace x1, Light maces x2, Daggers x10, Long knives x6 — all Mithril Steel Alloy. Throwing axes x5 (steel). Recurve bows x5 (enchanted, Fetted wood, Gray Hunter Silk). Arrows 200 Mithril Steel + 300 steel (broadhead/bodkin mixed, Mithril arrows locatable via mana). Whetstones/oil/scabbard wax.
+
+WEAPONS (ARCHMAGE-WORKED): Edgekeen Arrows x20 (bypass portion of magical wards, fragile, one-shot). Ward-Killer Shortsword x1 (silver inlay, forged against [Mage] ward-skin — untested). Sling-cord and lead shot.
+
+ANTI-MAGE: Dispel Chalk x4 sticks (disrupts low-mid wardwork). Null Sand x2 pouches (absorbs ambient mana briefly). Counter-resonance bell x1 (disrupts weaker caster concentration). Scrying Burn tickets x300.
+
+DETECTION/SCOUTING: Farsight lenses x4. Signal flares (3 colors x4). Mapping kit. Snare wire/trip-bell x20 sets.
+
+TOOLS: Rope (Black Hunter Silk 100ft x6). Grapples x6. Folding shovel, pry bar, hand axe x2. Cordage 200ft. Repair kit. Mithril-coated axes x5, hammers x5, saws, shovels x5, nails 350 (for construction, primarily Bevan's use).
+
+SHELTER: Oiled canvas tarps x10. Bedrolls x10. Snarl Wool blankets x10.
+
+SEALED: Bag of holding (max 5000 lbs). Sealed mission orders.
+
+DISTRIBUTION (Day 10 — post-rescue): Medical supplies consolidated under Sable. Pol got longsword (no shield available despite Shield Brace). Wyn got shortsword/throwing axes (glass is primary). All three fully armored/cloaked. Caedmon holds Ward-Killer Shortsword. See Supply Distribution for full breakdown.
 
