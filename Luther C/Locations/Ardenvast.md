@@ -1,1 +1,0 @@
-The planet the story takes place on.

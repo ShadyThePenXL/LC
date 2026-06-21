@@ -1,1 +1,0 @@
-Hundreds of gods on the moon, locked in faction wars and killing each other. Lesser gods, former gods, things that used to be gods. Their conflicts occasionally touch the mortal world.
