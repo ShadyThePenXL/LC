@@ -16,6 +16,8 @@ Luther soon left back to the west gate as they would be attacking again in about
 
 Luther opened Ryn's satchel and found potions which weren't of use. 
 
+[[Cademon Vale|Caedmon]] outfitted the three freed prisoners — [[Sable Mott]], [[Wyn Drace]], and [[Pol Harren]] — from the [[Mission Severance Supply List|Mission Severance supplies]]. Full chimera leather armor, enchanted boots, Whisperweave cloaks, weapons suited to their classes. Sable received the field surgeon's kit, healing potions, and specialist medical supplies as the group's only [Cleric of Solenne]. Wyn got a shortsword and throwing axes to back up his glass. Pol got a longsword — no shield in the supply drop despite his [[Shield Brace]] skill. Caedmon put the high-grade healing potions and Sevenfold Salve under Sable's authority. 
+
 Luther spent an hour practicing [[Root Command]] in [[The Deeproot]]. He learned the massive titan roots are too mana-saturated for Level 3 to affect, but thin undergrowth and fresh growth can be marginally manipulated within roughly ten feet. The Deeproot's high-density environment allowed for easy use, but he ran out of time to practice. [[Root Command]] leveled to 4.
 
 Luther hit the camp a second time. He battered through a reinforced western barricade and carved through the camp setting fires with stolen torches. The western half of the staging ground burned. Luther killed numerous [[Goblin|goblins]], [[Hobgoblin|hobgoblins]], [[Orc|orcs]], and [[Bugbear|bugbears]] across both runs. Caedmon's team struck the eastern corridors again during the chaos. The clock ticked over to midnight.
