@@ -39,6 +39,14 @@ Divine skills cannot be merged by the System alone — the granting god must rel
 
 [[Mana Well]] fills from ambient mana. Fill rate depends on environmental mana density. In [[The Deeproot]] at Level 7: approximately 8 seconds from empty to full. Outside the Deeproot the fill rate would be dramatically slower.
 
+### Skill Descriptions vs. Actual Capability
+
+A skill gives the bearer the ability and enough understanding to use it. But the description is what the System thinks the bearer can do at that level — it is not a wall.
+
+The description updates when the bearer crosses a threshold. Between thresholds, what the bearer can actually do with the skill grows faster than the text does. Practice and creative application push the skill's real capability ahead of its written description.
+
+This means a bearer who actively trains a skill between soft caps will be noticeably stronger than the description suggests. The System catches up at the next threshold.
+
 ### Unaligned Skill Points
 
 Some skill points are unaligned — not tied to the class. Unaligned points offer general or structural options (e.g. [[Mana Well]], physical upgrades) rather than class-specific ones.
