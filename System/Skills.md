@@ -15,6 +15,8 @@ Skills can be passive or active. Not everything runs in the background.
 
 Every skill has a soft cap at every 5 levels (5, 10, 15, 20, etc.). Growth between caps is steady and incremental. Breaking through a soft cap results in a noticeable power jump.
 
+Breaking a soft cap is not purely about power or volume — it requires understanding what the skill actually does well enough to push past the threshold. Volume alone can force a breakthrough, but it takes significantly more use than if the bearer genuinely comprehends the skill. There is no single thing that triggers a breakthrough, but certain realizations or applications can push a skill past a cap faster than raw repetition. The System also provides more aid and guidance the higher the skill level.
+
 ### Mana Cost
 
 Every skill draws from mana to function. In mana-dense environments like [[The Deeproot]], ambient saturation covers the cost passively. Outside such environments, sustained skill use drains the user. Detection skills like [[Apex Instinct]] can be held open indefinitely in the Deeproot but drain the user dry in minutes outside it. Most users outside mana-dense environments pulse detection skills in bursts rather than holding them open.
@@ -46,6 +48,10 @@ A skill gives the bearer the ability and enough understanding to use it. But the
 The description updates when the bearer crosses a threshold. Between thresholds, what the bearer can actually do with the skill grows faster than the text does. Practice and creative application push the skill's real capability ahead of its written description.
 
 This means a bearer who actively trains a skill between soft caps will be noticeably stronger than the description suggests. The System catches up at the next threshold.
+
+### Memories
+
+The System can preserve fragments of practiced understanding from consumed targets who spent significant time with a skill. Memories are offered as optional notifications via [[Predator's Mandate]]. Accepting a Memory delivers compressed intuitive knowledge — not images or instruction, but practiced understanding that integrates with existing skill use. The quality and depth of the fragment depends on how much the original bearer practiced the skill. A Memory from a Level 47 [Fire Mage] who used [[Combustion]] as a class core for decades is substantially more valuable than a fragment from a casual user.
 
 ### Unaligned Skill Points
 

@@ -32,18 +32,20 @@ By the time [[Luther Culvert]] arrived on Greenmonth 4th, only Caedmon, Toller, 
 
 **Greenmonth 13th (Day 10):** The group assaulted the remaining camp forces head-on. [[Thalrun Vel'Sharen|Thalrun]] had returned and fought from the center with combustion magic. The group broke through the horde — [[Cademon Vale|Caedmon]] killed the ogres, Luther pushed through the flames and battered down Thalrun's wards using the Ward-Killer Shortsword, [[Dispel Chalk]], [[Null Sand]], and the counter-resonance bell. Luther killed Thalrun and consumed the entire camp. All members leveled. Three freed prisoners outfitted from [[Mission Severance Supply List|Mission Severance supplies]]. [[Bevan Roe|Bevan]]'s leg treated by [[Sable Mott|Sable]].
 
-**Greenmonth 14th (Day 11):** Group moving south through [[The Deeproot]] toward the center. Luther practicing [[Combustion]]. Encountered [[Deeproot Siphon Turtle|siphon turtles]]. Luther gained [[Mana Saturation]] and [[Mana Shell]] traits from consumption.
+**Greenmonth 14th (Day 11):** Group moving south through [[The Deeproot]] toward the center. Luther practicing [[Combustion]]. Encountered [[Deeproot Siphon Turtle|siphon turtles]]. Luther gained [[Mana Saturation]] and [[Mana Shell]] traits from consumption. Luther accepted a System Memory of [[Thalrun Vel'Sharen]]'s Combustion practice — [[Combustion]] leveled from 8 to 10. Group reached [[Linne]], a village under assault by roughly 300 goblin variants. Luther broke through the southern breach and destroyed the attacking force. Reached Level 14. Met [[Teysa Vael]] and [[Cael Harrick]], [[Linne]]'s prodigies.
+
+**Greenmonth 15th (Day 12):** Luther assaulted a goblin encampment four miles southeast of [[Linne]] solo at 1:00 AM. Killed approximately 512 goblin variants. Roughly 100 escaped south. Reached Level 15. Selected new class skill [[Gorge]].
 
 ---
 
-### Current Composition (as of Greenmonth 14th)
+### Current Composition (as of Greenmonth 15th)
 
 - [[Cademon Vale]] — [Hunter], Level 35
 - [[Toller Finch]] — [Scout], Level 18
 - [[Bevan Roe]] — [Trapper], Level 23 (leg treated, improving)
-- [[Luther Culvert]] — [Devourer], Level 13
+- [[Luther Culvert]] — [Devourer], Level 15
 - [[Sable Mott]] — [Cleric of Solenne], Level 22, Rare (freed prisoner, Group 9)
 - [[Wyn Drace]] — [Glasser], Level 20 (freed prisoner, Group 9)
 - [[Pol Harren]] — [Warrior], Level 16 (freed prisoner, Group 5)
 
-Seven members. Moving south toward the center of [[The Deeproot]].
+Seven members. At [[Linne]].

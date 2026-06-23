@@ -1,0 +1,1 @@
+A settlement in [[The Deeproot]], roughly 180 miles south of [[Linne]]. Past Cairnhollow, numerous settlements exist with significantly higher-level inhabitants and stronger surrounding monsters. The deeper regions of the forest are home to people who are powerful in their own right and rarely leave.
