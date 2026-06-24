@@ -10,6 +10,23 @@ Twenty-five groups deployed simultaneously into [[The Deeproot]] by [[Thornwall]
 
 ---
 
+### Mission Severance — Center Target
+
+The center of [[The Deeproot]] is held by a duo:
+
+- A drow [Sorcerer] named **Veleth** — roughly Level 65. Controls the mana anomaly / barrier ritual.
+- A **[Warrior]** of some kind — identity, race, and level unknown.
+
+Kill the duo, end the ritual. That is the mission.
+
+The duo are not the top of the chain. This forest is one front in a far larger goblin invasion of the region. The invasion as a whole is believed to be led by a goblin matriarch — something past Level 700 — seated in the kingdom over. The duo and their forces in the Deeproot are a single part of that war; killing them cuts off one head, not the body.
+
+The duo command more than the staging ground. [[Thalrun Vel'Sharen]], the [Fire Mage] who ran it, was one officer among several. Other classed lieutenants and their forces remain scattered through the deep forest between the outskirts and the center.
+
+Roughly a hundred goblin variants escaped south from the encampment Luther destroyed on [[Day 12]]. They will likely carry word ahead — surprise on the southern route should not be assumed.
+
+---
+
 ### Group Reports
 
 Divination records compiled from the Temple of Sight, Thornwall Capital. Scrying accuracy degrades significantly inside [[The Deeproot]] due to ambient mana interference. Many entries are fragmentary.

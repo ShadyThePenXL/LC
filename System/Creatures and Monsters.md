@@ -28,6 +28,14 @@ It's important to note that a Goblin's 1 in strength is not the same as a human'
 
 Monsters with low stat spreads per level are "hollow" — they gain levels quickly but each level adds very little actual power. A Level 200 [[Goblin]] with +1 Str / +1 Dex per level is still weak relative to its level number. A Level 200 [[Mana Warden]] with +10 in four stats per level is a genuine threat. Level alone does not determine danger — stat spread and hollowness matter.
 
+### Level Distribution by Depth
+
+Monster levels climb sharply toward the center of [[The Deeproot]]. Near the northern tree line goblin variants can run low, but the floor rises fast with depth. By the time the group is operating south of [[Linne]], goblin variants commonly run in the 70–175 range, and the deeper settlements face far worse.
+
+Do not place trivially low-level goblins (single digits, Level 5, Level 10) in the deep forest — the meat of the Deeproot is not a starting zone. The numbers are hollow relative to a classed being, but they still climb steeply with depth.
+
+Goblin "variants" — hobgoblins, goblin brutes, orcs, ogres, bugbears, worgs — are common and constantly encountered, not rare sightings. The group has killed them by the hundreds. Treat an orc or an ogre as an ordinary battlefield presence, not a novelty worth remarking on.
+
 ### Monster Lifecycle and Aging
 
 Goblin-tier monsters mature fast and die young. They are bred, armed, pointed, and sent. Stats do not prevent aging.
@@ -46,6 +54,10 @@ Goblin-tier monsters mature fast and die young. They are bred, armed, pointed, a
 ### Elites
 
 Some monsters develop skills on top of their racial traits. These are called Elites. The pattern is not studied or understood — it might be age, mana saturation, or something else. Elites are more common in [[The Deeproot]] than outside it. Elites often carry cores — this could be related.
+
+### Cores
+
+Cores are extremely rare and extremely powerful — solid mana crystals, very nearly pure (most of the time), grown inside a monster's heart. A core is the foundation from which a monster could form a class — roughly the equivalent of what lets a sentient being hold one. Most monsters never get that far; they develop skills on top of their racial traits and stop there. A monster that grows a true core is exceptional. Cores are prized as raw material, as power sources, and for what they represent.
 
 ### Category Blurring
 

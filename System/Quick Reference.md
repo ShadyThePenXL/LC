@@ -46,6 +46,18 @@ Common and everyday. Two paths: a casting class with built-in channeling, or buy
 
 Categories blur — farmland wolves become creature-dogs over generations. Same species, different classification based on nature.
 
+### Running the Deep Forest
+
+Monster levels climb steeply toward the center. Do not place single-digit or Level 5/10 goblins in the deep forest — south of [[Linne]] goblin variants commonly run 70–175. Goblin variants (hobgoblins, brutes, orcs, ogres, bugbears, worgs) are constant, not rare sightings; the group has killed hundreds.
+
+Level should track with age and experience — an old lifelong fighter is high level, not Level 8. Leveling does not stop aging.
+
+Mana sickness is about acclimation, not level. Going slow, even low-level members are fine; rushing through density rings is what hurts.
+
+Cores: extremely rare, extremely powerful solid mana crystals grown in an Elite monster's heart — the basis from which a monster could form a class. Most never get that far.
+
+Whenever a status shifts, the System announces it: `[Level Up! ...]`, `[Through consumption you have grown. ...]`, `[+2 Stat ...]`.
+
 ### Mass-Consumption Extraction
 
 When sources are too small for individual extraction, a progress bar appears. Accumulates across many kills. Royal guard-tier sources give dramatically more progress. Trait acquired at 100%.

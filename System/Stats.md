@@ -20,7 +20,9 @@ Stat scaling is relative to body size. A stat point on a 40-pound goblin frame i
 
 ### Aging
 
-Stats do not prevent aging. High stats slow degradation and keep the body in peak condition longer, but time still passes. Elves and dwarves live longer due to racial biology, not stats.
+Stats do not prevent aging. High stats slow degradation and keep the body in peak condition longer, but time still passes. Elves and dwarves live longer due to racial biology, not stats. Leveling does not stop aging.
+
+Age and level should make sense together. Levels are earned through kills, conflict, and lived experience — an old person who has fought and worked their whole life should be a high level, not a low one. A genuinely low-level adult is someone who has lived a sheltered, sedentary life. An eighty-year-old veteran is not Level 8; an eighty-year-old who never left a quiet village might be. The oldest, most experienced fighters deep in the forest can sit around Level 80 even past their physical prime — their level reflects a lifetime of fighting, their failing body reflects their age.
 
 ### General Rules
 

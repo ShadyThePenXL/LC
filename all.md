@@ -12,7 +12,9 @@ Intellect governs internal mana capacity. Knowledge governs memory and recall.
 
 Stats are numbers. They are never described or explained in prose to the character. They inform how the world naturally responds to the character.
 
-Stats do not prevent aging. A Level 200 human with 400 Endurance still ages at a human rate. They age well — their body is resilient, heals damage from age more effectively, stays functional longer — but they still get old and eventually die.
+Stats do not prevent aging. A Level 200 human with 400 Endurance still ages at a human rate. They age well — their body is resilient, heals damage from age more effectively, stays functional longer — but they still get old and eventually die. Leveling does not stop aging.
+
+Age and level should track together. Levels come from a lifetime of fighting and experience — an old lifelong fighter is high level, not Level 8. A genuinely low-level adult lived a sheltered life. The oldest fighters deep in the forest can sit around Level 80 even past their prime.
 
 There is no HP. Wounds are described through physical consequence — broken bones, torn tissue, blood loss, organ damage. A character is done when their body gives out.
 
@@ -64,6 +66,8 @@ Skill description rules: Use descriptive language, no percentages. No quips. Ski
 
 Skill points: 1 general + 1 class every 5 levels (5, 10, 15...). Class skill selection: 3 options (1 new, 2 upgrades), pick 1.
 
+System notifications: Whenever a status shifts, the System announces it in a short bracket. [Through consumption you have grown. Strength 126 → 128] / [Level Up! Level 14 → 15] / [+2 Strength, +4 Endurance, +2 Technique, +1 Dexterity] / [Level Up! Combustion Level 14 → 15]. Soft cap breaks and skill/trait gains are announced the same way.
+
 ---
 
 ## Traits
@@ -98,6 +102,8 @@ Monster leveling depends on how "hollow" they are — weak stat spreads level qu
 
 Elites: Some monsters develop skills on top of racial traits. More common in The Deeproot. Often carry cores.
 
+Cores: Extremely rare, extremely powerful solid mana crystals, nearly 100% pure (most of the time), grown inside an Elite monster's heart. A core is the basis from which a monster could form a class — most never get that far and just develop skills. Prized as raw material and power sources.
+
 Categories blur: farmland wolves become creature-dogs over generations. Lowland boars are creatures, Deeproot boars are monsters.
 
 Monster lifecycle — goblin-tier monsters mature fast and die young:
@@ -111,6 +117,8 @@ Monster lifecycle — goblin-tier monsters mature fast and die young:
 - Mana Warden: adult 100 years, lifespan unknown (15x XP to level)
 
 Anything under Level 200 on the outskirts of the Deeproot is likely under a year old.
+
+Levels climb steeply toward the center. Do NOT use single-digit / Level 5 / Level 10 goblins in the deep forest — south of Linne goblin variants commonly run 70–175. Goblin variants (hobgoblins, brutes, orcs, ogres, bugbears, worgs) are constant, not rare sightings; the group has killed hundreds. An orc or ogre is an ordinary battlefield presence, not a novelty.
 
 ---
 
@@ -198,9 +206,25 @@ Teysa instructed Luther on Root Command — told him to stop forcing and listen 
 
 Day 12 — Solo Encampment Assault (Greenmonth 15th)
 
-Luther assaulted the goblin encampment 4 miles SE of Linne at 1:00 AM. Killed approximately 512 goblin variants. Roughly 100 escaped south. Reached Level 15. Combat Bludgeoning 8→9, Low Light Vision 2→3. Combustion pressed against Level 10 cap, no breakthrough.
+Luther assaulted the goblin encampment 4 miles SE of Linne solo at 1:00 AM. Killed ~491 goblin variants. ~100 escaped south. Consumed what he could (rest too charred). Reached Level 15. Combat Bludgeoning 8→9, Low Light Vision 2→3. Combustion pressed against Level 10 cap, no breakthrough during the fight. Selected new class skill Gorge. Traits reinforced.
 
-Selected new class skill Gorge. 1 unspent general skill point. Traits reinforced (War Hide, Crushing Weight, Unyielding Frame, Mana Saturation, Mana Shell all progressed).
+Morning (~6 AM): Caedmon's group found Luther at the camp. He demonstrated a compressed concussive air-burst (RPG variant), cratering a titan trunk — Combustion broke its cap, 10→11 (new: combustion compressed and projected as directed concussive force, detonating on contact or at set distance). Caedmon was annoyed Luther went solo but let it go (he's learned Luther does what he wants and will leave if pushed). Luther agreed to stay two days and practice.
+
+Luther spent his general point on Meditation (1→4; developed internal mana-flow awareness). Practiced Combustion — remote ignition fails past ~60 yards (mana disperses). Designed combustion grenades: impact, delayed (mana-thread fuse), and frag (4-cluster independent sub-grenades around a kick charge; wide- and tight-scatter). Combustion 11→14 overnight.
+
+---
+
+Day 13 — Glass Munitions (Greenmonth 16th)
+
+Luther realized glass solves his ordnance problems (no mana bleed/merge/degradation). Grabbed Wyn from Linne. Together they built glass munitions — key breakthrough a dual-layer charge (hot core + cooler buffer; air ignites buffer on glass break, cascades to core). Working glass grenades, frag grenades, and claymore charges (60° cone). Combustion 14→15 (new: layered charges of differing intensity in one assembly). Wyn's Summon Glass hit 20 and broke its cap — variant glass types (tempered, laminated, crystalline); Shape Glass 21→23, Heat Protection 13→14. Crystalline glass became the munition standard; enabled land-mine payloads (small/large) for Bevan's triggers.
+
+Evening: Luther sketched a Glock and a Desert Eagle; Wyn built combustion-propelled crystalline-glass pistols (8" and 10" rifled barrels, mana-driven magazines, user-charged rounds). Both tested into titan trees — functional. Commissioned holster/bandoliers (Dorrit) and vial racks (Fesser) in Linne. Mana Well 7→8.
+
+---
+
+Day 14 — March South (Greenmonth 17th)
+
+Group departed Linne south toward Harren's Mill (60mi) at full composition, ordnance distributed. Bevan had rebuilt Linne's south palisade; Pol drilled and improved. 31 miles south, cleared a ~32-strong goblin waypoint (goblins L71–134, hobgoblins L131–173, worgs L104–119) hauling a cart north. Glass grenades/mines effective on live targets. Continuing south, aiding settlements on the way (the rangers want to help; they could run straight to the center in ~3 days but won't).
 
 ---
 
@@ -256,7 +280,7 @@ Iron Skin (Level 6) [Andro] — The [Devourer's] physical strike resistance incr
 
 (Notes from levels) (The skin retains a greater natural density even between engagements.)
 
-Mana Well (Level 7) — The [Devourer] possesses an extra passive internal mana reserve which gradually replenishes from ambient sources. The well can be used to enhance any skill or trait.
+Mana Well (Level 8) — The [Devourer] possesses an extra passive internal mana reserve which gradually replenishes from ambient sources. The well can be used to enhance any skill or trait.
 
 (Notes from levels) (The reserve can hold substantially more mana than before. Mana is drawn more readily from mana-rich environments. The well replenishes itself more quickly and may sustain ongoing skills directly. The [Devourer] may channel its reserves into multiple active skills simultaneously, with little loss during transfer.)
 
@@ -276,6 +300,8 @@ Low Light Vision (Level 3) — Visual acuity in low-light conditions substantial
 
 Muffle (Level 1) — Passive. Sound generated by the bearer's movement reduced.
 
+Meditation (Level 4) — The [Devourer] can enter a focused state to accelerate mana recovery. (Awareness of internal mana flow developed.)
+
 ────────────────
 
 [STOLEN SKILLS]
@@ -286,9 +312,9 @@ Stagger Shout (Level 6) — Active. The [Devourer] can emit a short-range vocal 
 
 Root Command (Level 4) — The [Devourer] can manipulate living plant matter within range.
 
-Combustion (Level 10) — The [Devourer] can create, sustain, and shape combustion.
+Combustion (Level 15) — The [Devourer] can create, sustain, and shape combustion.
 
-(Notes from levels) Intensity adjustable from ember to violent burn. Multiple combustion points can be maintained with minimal concentration. Flame path and spread may be directed after ignition. Heat may be concentrated or dispersed independently of visible flame. Ignition chain projection dramatically extended.
+(Notes from levels) Intensity adjustable from ember to violent burn. Multiple combustion points can be maintained with minimal concentration. Flame path and spread may be directed after ignition. Heat may be concentrated or dispersed independently of visible flame. Ignition chain projection dramatically extended. Combustion energy may be compressed and projected as directed concussive force, detonating on contact or at a set distance. Layered combustion charges of differing intensity may be constructed within a single assembly, maintaining separation until triggered.
 
 ────────────────
 
@@ -366,7 +392,7 @@ Murtha, Goddess of the Second Thread — Daily prayer (genuine acknowledgment). 
 
 [POINTS]
 
-General Skill Points: 1
+General Skill Points: 0
 
 Class Skill Points: 0
 
@@ -397,6 +423,14 @@ Satchel (Ryn's — contents: potions, not useful)
 4 Enchanted 5 Liter Waterskins (empty)
 
 Standard field supplies (scrying tickets, water stone, firestarter, wound powder, salve, 2 low-grade healing potions, Dispel Chalk (reduced), Null Sand (1 pouch remaining))
+
+Crystalline Glass Pistol — standard (Glock-pattern, 8" rifled barrel) + leather hip holster
+
+Crystalline Glass Pistol — heavy (Desert Eagle-pattern, 10" barrel)
+
+Glass pistol ammunition (~100 standard + ~20 heavy rounds, hollow, user-charged with combustion)
+
+Bandolier of glass grenades (standard / frag / claymore); can manufacture more freely with Wyn's glass. Additional ordnance distributed across the group.
 
 ---
 
@@ -440,8 +474,8 @@ Eleven days in a goblin cage. Calm, measured, professional. Led survivors throug
 ### Wyn Drace
 [Glasser] Level 20. Age 24, Male, 5'10". Group 9.
 STR 26 / DEX 30 / END 32 / INT 62 / KNO 60 / CHA 20 / TEC 61
-Key skills: Summon Glass (19), Shape Glass (21) [shaping speed, sharpness beyond material limits, extended range], Heat Protection (13).
-Reactive. Primary combat is summoned/shaped glass. Recognized Hollis Ferrow's smith mark. Freed Day 9.
+Key skills: Summon Glass (20) [variant glass types — tempered, laminated, crystalline], Shape Glass (23) [shaping speed, sharpness beyond material limits, extended range], Heat Protection (14).
+Reactive. Primary combat is summoned/shaped glass. Recognized Hollis Ferrow's smith mark. Freed Day 9. Engineered glass munitions and combustion-propelled glass firearms with Luther on Day 13.
 
 ---
 
@@ -491,15 +525,17 @@ The planet. Luther was pulled here after death on Earth.
 ### The Deeproot
 Massive titan forest in northern Thornwall. ~785,400 square miles. Trees 500+ feet tall, trunks wide enough to park a bus against, cold wood hard as iron. Air thick with mana pulled from the planet's core through roots.
 
-A dome-like mana barrier traps all mana within the forest. Mana density increases in rings roughly every 100 miles toward the center. Those too weak for a ring may suffer mana sickness. People deeper in the forest are powerful in their own right and rarely leave — adapting to lower mana outside is hard.
+A dome-like mana barrier traps all mana within the forest. Mana density increases in rings roughly every 100 miles toward the center. The first ring is on the southern route just past Harren's Mill (the town sits ~10mi short of it). Mana sickness is about acclimation, not level — go slow and even low-level members are fine; rushing through rings is what hurts. People deeper in the forest are powerful in their own right and rarely leave — adapting to lower mana outside is hard.
 
-Southern route from current position: Linne → Harren's Mill (~60mi south) → Cairnhollow (~180mi south) → deeper settlements with significantly higher-level inhabitants and stronger monsters.
+Weather reaches the forest floor (rain, storms, temperature). Rare: mana rain — ambient mana gathers into clouds and drips back into the soil.
+
+Southern route: Linne → Harren's Mill (~60mi south, ~10mi short of first ring) → Cairnhollow (~180mi south) → deeper settlements with significantly higher-level inhabitants and stronger monsters.
 
 ### Linne
-Village in The Deeproot, south of the destroyed staging ground. Palisade walls. Soaked Log tavern. Home of prodigies Teysa Vael and Cael Harrick. Group is currently here (Day 12).
+Village in The Deeproot, south of the destroyed staging ground. Palisade walls. Soaked Log tavern. Home of prodigies Teysa Vael and Cael Harrick (children; did not join the march). Craftspeople Dorrit (leatherworker) and Fesser (carpenter) made Luther's holster, bandoliers, and vial racks. Group based here Days 12–14; Bevan rebuilt the south palisade. Departed south for Harren's Mill on Day 14.
 
 ### Harren's Mill
-Settlement ~60 miles south of Linne on the southern route.
+Settlement ~60 miles south of Linne on the southern route. Sits ~10 miles short of the first mana density ring — last town before saturation steps up.
 
 ### Cairnhollow
 Settlement ~180 miles south of Linne. Past Cairnhollow, settlements have significantly higher-level inhabitants.
@@ -519,7 +555,7 @@ Twenty-five groups deployed by Thornwall Military Command under Trieht Blasterhu
 
 Current status: Fifteen groups confirmed destroyed. Several unaccounted for. Group 16 (Caedmon's) is the last confirmed operating.
 
-## Caedmon's Group — Current Composition (Greenmonth 15th)
+## Caedmon's Group — Current Composition (Greenmonth 17th)
 
 - Cademon Vale — [Hunter], Level 35
 - Toller Finch — [Scout], Level 18
@@ -529,11 +565,13 @@ Current status: Fifteen groups confirmed destroyed. Several unaccounted for. Gro
 - Wyn Drace — [Glasser], Level 20
 - Pol Harren — [Warrior], Level 16
 
-Seven members. At Linne.
+Seven members. On the southern route, between Linne and Harren's Mill.
 
 ## Mission Target
 
-Veleth — drow [Sorcerer], well beyond Level 50. Located at the center of The Deeproot, controlling the mana anomaly. The staging ground was run by Thalrun Vel'Sharen (drow [Fire Mage], Level 47) — killed Day 10 by Luther.
+The center holds a duo: Veleth — drow [Sorcerer], ~Level 65, controlling the mana anomaly — and an unknown [Warrior] (race/level unknown). Kill the duo, end the ritual.
+
+They are not the top of the chain. This forest is one front of a larger goblin invasion led by a goblin matriarch (past Level 700) in the kingdom over; killing the duo cuts one head, not the body. Thalrun Vel'Sharen (drow [Fire Mage], Level 47, killed Day 10) was one officer of several — other classed lieutenants and forces remain between the outskirts and the center. ~100 goblins escaped south on Day 12 and will likely warn what's ahead.
 
 ---
 

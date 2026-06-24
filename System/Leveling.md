@@ -27,3 +27,13 @@ The bearer picks 1.
 Each class has a fixed stat spread per level. Stats gained per level are determined by the class and do not change.
 
 Monsters also gain a fixed number of attribute points per level, determined by their species.
+
+### System Notifications
+
+The System announces changes to the bearer through short bracketed messages. Use them consistently — whenever any status shifts (a stat, a level, a skill, a trait intensity), the System says so.
+
+- Stat growth from consumption: `[Through consumption you have grown. Strength 126 → 128]`
+- Level up: `[Level Up! Level 14 → 15]`
+- Stat gains on a level: `[+2 Strength, +4 Endurance, +2 Technique, +1 Dexterity]`
+- Skill level up: `[Level Up! Combustion Level 14 → 15]`
+- Soft cap breaks, skill acquisitions, and trait changes are announced the same way.

@@ -20,15 +20,15 @@ Stats per level — [Glasser]: +2 INT, +2 KNO, +1 TEC
 
 CLASS SKILLS — [Glasser]
 
-[[Summon Glass]] (Level 19) [Upgraded]  
-The [Glasser] can conjure glass from mana. [Upgraded] Can summon more types of glass.  
+[[Summon Glass]] (Level 20) [Upgraded ×2]  
+The [Glasser] can conjure glass from mana. [Upgraded] Can summon more types of glass. [Upgraded ×2] Variant glass types available — tempered, laminated, crystalline — with foundational knowledge of each.  
 (Notes from levels): Volume and density improved. Summoning speed increased.
 
-[[Shape Glass]] (Level 21) [Upgraded ×2]  
+[[Shape Glass]] (Level 23) [Upgraded ×2]  
 The [Glasser] can telekinetically shape existing or summoned glass. [Upgraded] Glass can be more easily shaped and controlled. Range increased. [Upgraded ×2] Shaping speed further increased. Shaped glass edges maintain sharpness beyond normal material limits. Control range further extended.  
 (Notes from levels): Complexity and precision of shaping improved. Hardness of shaped glass increased.
 
-[[Heat Protection]] (Level 13)  
+[[Heat Protection]] (Level 14)  
 The [Glasser] can passively withstand extreme temperatures.  
 (Notes from levels): Resistance to heat and thermal damage increased.
 
@@ -47,6 +47,8 @@ The [Glasser] can operate kilns, furnaces, and maintain high-heat fires more eas
 The bearer can enter a focused state to accelerate mana recovery.
 
 Reactive. One eye swollen shut. Knows his gear — recognized Hollis Ferrow's smith mark on sight. Wants to fight.
+
+On [[Day 13]] Wyn worked with [[Luther Culvert|Luther]] to engineer glass munitions — dual-layer-charge grenades, claymore charges, land-mine payloads, and crystalline-glass firearms (pistol and heavy variant). Crystalline glass became the munitions standard. His [[Summon Glass]] broke its soft cap during the work.
 
 Freed by [[Luther Culvert]] during the staging ground assault on [[Day 9]].
 

@@ -4,11 +4,17 @@ The Deeproot is a 'Titan Forest'. Roughly 785,400 square miles.
 
 ### Mana Barrier and Rings
 
-The Deeproot is enclosed by a dome-like mana barrier. Mana concentration increases dramatically the deeper one travels toward the center. The barrier is believed to have been erected by some kind of [Forest Guardian] — details unknown. There are rings of escalating mana density roughly every 100 miles toward the center. Each ring brings higher ambient mana, stronger creatures, and increased risk of mana sickness for those whose bodies cannot handle the saturation.
+The Deeproot is enclosed by a dome-like mana barrier. Mana concentration increases the deeper one travels toward the center. The barrier is believed to have been erected by some kind of [Forest Guardian] — details unknown. There are rings of escalating mana density spaced roughly every 100 miles toward the center — each ring is a step up in ambient saturation, with stronger creatures beyond it.
 
-### Mana Sickness
+The first ring lies on the southern route just past [[Harren's Mill]]; the town sits roughly 10 miles short of it. Crossing a ring is the point where saturation jumps, so settlements tend to sit just outside a ring rather than on top of one.
 
-Traveling deeper than one's body can tolerate causes mana sickness — the ambient mana overwhelms the individual's ability to process it. Higher Intellect and Endurance help resist it, as do traits like [[Mana Saturation]] and [[Enhanced Magic]].
+### Mana Sickness and Acclimation
+
+Mana sickness is about acclimation, not level. A low-level traveler can go as deep as anyone provided they advance slowly and let their body adjust to each increase in saturation. Pushing through several rings quickly — outrunning the body's ability to acclimate — is what causes mana sickness, regardless of stats. Going in slow, the lower-level members of a party (even a Level 16) will be fine. Traits like [[Mana Saturation]] and [[Fey Mana Affinity]] speed acclimation; high Intellect and Endurance help, but time and gradual exposure are what actually matter.
+
+### Weather and Mana Rain
+
+Weather reaches the forest floor despite the canopy — rain, temperature shifts, and storms still factor into travel and combat. Rarely, mana rain occurs: ambient mana lifted from the forest gathers into clouds and drips back down into the soil. It is uncommon and notable when it happens.
 
 ### Deep Forest Inhabitants
 

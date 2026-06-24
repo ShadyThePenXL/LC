@@ -34,11 +34,15 @@ By the time [[Luther Culvert]] arrived on Greenmonth 4th, only Caedmon, Toller, 
 
 **Greenmonth 14th (Day 11):** Group moving south through [[The Deeproot]] toward the center. Luther practicing [[Combustion]]. Encountered [[Deeproot Siphon Turtle|siphon turtles]]. Luther gained [[Mana Saturation]] and [[Mana Shell]] traits from consumption. Luther accepted a System Memory of [[Thalrun Vel'Sharen]]'s Combustion practice — [[Combustion]] leveled from 8 to 10. Group reached [[Linne]], a village under assault by roughly 300 goblin variants. Luther broke through the southern breach and destroyed the attacking force. Reached Level 14. Met [[Teysa Vael]] and [[Cael Harrick]], [[Linne]]'s prodigies.
 
-**Greenmonth 15th (Day 12):** Luther assaulted a goblin encampment four miles southeast of [[Linne]] solo at 1:00 AM. Killed approximately 512 goblin variants. Roughly 100 escaped south. Reached Level 15. Selected new class skill [[Gorge]].
+**Greenmonth 15th (Day 12):** Luther assaulted a goblin encampment four miles southeast of [[Linne]] solo at 1:00 AM. Killed approximately 491 goblin variants. Roughly 100 escaped south. Reached Level 15. Selected new class skill [[Gorge]]. In the morning [[Combustion]] broke its Level 10 cap during a concussive-projectile demonstration; Luther agreed to stay two days and practice while the group worked at Linne. He spent his general skill point on [[Meditation]] and developed combustion grenade designs. Combustion reached Level 14.
+
+**Greenmonth 16th (Day 13):** Luther and [[Wyn Drace]] engineered glass munitions at the practice camp — dual-layer-charge grenades, claymore charges, land-mine payloads, and crystalline-glass firearms (a pistol and a heavier variant, combustion-propelled). Combustion reached Level 15; Wyn's [[Summon Glass]] broke its soft cap. [[Bevan Roe|Bevan]] rebuilt Linne's southern palisade. [[Pol Harren|Pol]] drilled under Caedmon.
+
+**Greenmonth 17th (Day 14):** Group departed [[Linne]] south toward [[Harren's Mill]] (60 miles). Cleared a ~32-strong goblin waypoint 31 miles south. Continuing toward the center, aiding settlements along the way.
 
 ---
 
-### Current Composition (as of Greenmonth 15th)
+### Current Composition (as of Greenmonth 17th)
 
 - [[Cademon Vale]] — [Hunter], Level 35
 - [[Toller Finch]] — [Scout], Level 18
@@ -48,4 +52,4 @@ By the time [[Luther Culvert]] arrived on Greenmonth 4th, only Caedmon, Toller, 
 - [[Wyn Drace]] — [Glasser], Level 20 (freed prisoner, Group 9)
 - [[Pol Harren]] — [Warrior], Level 16 (freed prisoner, Group 5)
 
-Seven members. At [[Linne]].
+Seven members. On the southern route, between [[Linne]] and [[Harren's Mill]].
