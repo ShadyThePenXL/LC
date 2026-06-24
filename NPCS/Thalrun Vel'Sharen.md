@@ -6,7 +6,7 @@ Gender: Male
 Class: [Fire Mage] — Level 47 (Rare)
 Previous Class: [Mage] (Evolved at Level 14)
 
-Killed by [[Luther Culvert]] during the staging ground assault on [[Day 10]]. Consumed.
+Killed by [[Luther Culvert]] during the staging ground assault on [[Greenmonth 13th]]. Consumed.
 
 RACIAL TRAITS — Drow
 65% reduced experience gain. Sunlight sensitivity. Poison resistance. [[Enhanced Magic]].
@@ -66,4 +66,4 @@ Warded robes (passive magical defense, mana regeneration)
 
 ────────────────
 
-Commander of the goblin staging ground in [[The Deeproot]], serving under Veleth. Left the camp east roughly two hours before [[Luther Culvert|Luther]]'s first assault on [[Day 9]]. Returned and was present for the final battle on [[Day 10]]. His wards were broken through combined use of the Ward-Killer Shortsword, [[Dispel Chalk]], [[Null Sand]], and the counter-resonance bell. Luther consumed him and extracted [[Combustion]] and [[Enhanced Magic]].
+Commander of the goblin staging ground in [[The Deeproot]], serving under Veleth. Left the camp east roughly two hours before [[Luther Culvert|Luther]]'s first assault on [[Greenmonth 12th]]. Returned and was present for the final battle on [[Greenmonth 13th]]. His wards were broken through combined use of the Ward-Killer Shortsword, [[Dispel Chalk]], [[Null Sand]], and the counter-resonance bell. Luther consumed him and extracted [[Combustion]] and [[Enhanced Magic]].

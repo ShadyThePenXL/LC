@@ -50,7 +50,7 @@ The soldier can identify flora for medical or survival purposes.
 
 Eleven days in a [[Goblin|goblin]] cage and she came out reading the room before asking for help. Calm, measured, professional. Recognized Mithril by touch and titan sap by smell. She led her group's survivors through captivity and kept [[Wyn Drace|Wyn]] and [[Pol Harren|Pol]] functional. The steady one.
 
-Freed by [[Luther Culvert]] during the staging ground assault on [[Day 9]].
+Freed by [[Luther Culvert]] during the staging ground assault on [[Greenmonth 12th]].
 
 See: [[Caedmon's Group]]
 

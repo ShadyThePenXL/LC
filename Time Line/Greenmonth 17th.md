@@ -1,6 +1,6 @@
 Greenmonth 17th.
 
-7:15 AM — The group departed [[Linne]] by the south gate at full composition: [[Cademon Vale|Caedmon]], [[Toller Finch|Toller]], [[Bevan Roe|Bevan]], [[Luther Culvert|Luther]], [[Sable Mott|Sable]], [[Wyn Drace|Wyn]], [[Pol Harren|Pol]]. All supplied. Ordnance distributed — a bandolier each to Caedmon and Bevan, vial racks to Bevan, Wyn carrying spare rounds and replacement grenades. Bevan had test-rigged three land-mine assemblies on [[Day 13]], all successful.
+7:15 AM — The group departed [[Linne]] by the south gate at full composition: [[Cademon Vale|Caedmon]], [[Toller Finch|Toller]], [[Bevan Roe|Bevan]], [[Luther Culvert|Luther]], [[Sable Mott|Sable]], [[Wyn Drace|Wyn]], [[Pol Harren|Pol]]. All supplied. Ordnance distributed — a bandolier each to Caedmon and Bevan, vial racks to Bevan, Wyn carrying spare rounds and replacement grenades. Bevan had test-rigged three land-mine assemblies on [[Greenmonth 16th]], all successful.
 
 Over the two days at Linne: Bevan rebuilt the village's southern palisade section; Pol drilled under Caedmon and improved noticeably; Sable restocked medical supplies; Toller scouted the first 20 miles south (light monster activity, nothing organized).
 

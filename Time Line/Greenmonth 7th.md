@@ -1,4 +1,4 @@
-Day 4 — Ant Farming and Goblin Slavery (Greenmonth 7th)
+Greenmonth 7th — Ant Farming and Goblin Slavery
 
 [[Luther Culvert|Luther]] hunted [[Blackshell Ant|blackshell ants]]. He excavated a colony, beginning progress on [[Serrated Mandible]]. He captured five [[Goblin|goblins]], utilizing them as living fodder in the ant pit before eating them.
 
@@ -6,4 +6,4 @@ Day 4 — Ant Farming and Goblin Slavery (Greenmonth 7th)
 
 Luther trained [[Stagger Shout]] on [[Bevan Roe|Bevan]] for two hours, leveling it to 4.
 
-[[Day 5]]
+[[Greenmonth 8th]]

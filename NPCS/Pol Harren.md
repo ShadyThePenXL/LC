@@ -49,7 +49,7 @@ The bearer can fight effectively with a single weapon without shield or off-hand
 
 Different group than [[Sable Mott|Sable]] and [[Wyn Drace|Wyn]] — he was alone from his team when they caged him. Youngest, lowest level, most shaken.
 
-Freed by [[Luther Culvert]] during the staging ground assault on [[Day 9]].
+Freed by [[Luther Culvert]] during the staging ground assault on [[Greenmonth 12th]].
 
 See: [[Caedmon's Group]]
 

@@ -1,4 +1,4 @@
-Day 1 — Death and Arrival (June 6, 2026 → Greenmonth 4th, Year 894)
+Greenmonth 4th, Year 894 — Death and Arrival
 
 [[Luther Culvert]] died in Pittsburgh An MMA fighter since the age of 12 transitioning into powerlifting for the last four years died while attempting an 800 lb. squat at age 36. 
 
@@ -17,7 +17,7 @@ His soul was pulled into [[Ardenvast]]. The System granted him the Outerworlder 
  
  Luther's consumption resulted in him leveling to level 5 where The System forced a class evolution. Luther fought the pull of a legendary class called [The Maw] leveling [[Iron Will]] to 23 in the process, and chose [Devourer]. He selected a class skill at level 5 called [[Mantle]]. With his evolution to [Devourer] he gained the class skill [[Predator's Claim]]
 
-[[Day 2]]
+[[Greenmonth 5th]]
 
 
 

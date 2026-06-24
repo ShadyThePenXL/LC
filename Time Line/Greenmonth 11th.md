@@ -1,4 +1,4 @@
-Day 8 — Rendezvous and Resupply (Greenmonth 11th)
+Greenmonth 11th — Rendezvous and Resupply
 
 The group departed Vault Camp before dawn. [[Cademon Vale|Caedmon]] carried [[Bevan Roe|Bevan]] on his back. [[Toller Finch|Toller]] ran point ahead. [[Luther Culvert|Luther]] kept pace. They ran 100 miles northeast. Arrived at the rendezvous point a shallow cave under a titan root at approximately 11:47 AM.
 
@@ -22,4 +22,4 @@ Luther proposed that the group attack the goblin staging ground using harassment
 
 They traveled the 70 miles south.
 
-[[Day 9]]
+[[Greenmonth 12th]]

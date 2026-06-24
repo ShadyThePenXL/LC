@@ -126,7 +126,7 @@ Levels climb steeply toward the center. Do NOT use single-digit / Level 5 / Leve
 
 ---
 
-Days 1–3 Summary (Greenmonth 4th–6th)
+Greenmonth 4th–6th Summary
 
 Luther Culvert died in Pittsburgh (age 36, MMA fighter turned powerlifter, died on an 800 lb squat). Soul pulled to Ardenvast. Murtha authored arrival, granted Anchored. System granted Outerworlder (Legendary) title. Luther picked [Endurer] class. Andro teleported him to The Deeproot and granted Iron Skin.
 
@@ -134,29 +134,29 @@ Ate a creature raw. Greel forcibly granted Unfathomable Gluttony and Ravenous Co
 
 At Vault Camp, met Toller Finch ([Scout] Level 17) and Bevan Roe ([Trapper] Level 22, poisoned leg). Luther leveled to 5, System forced class evolution. Fought the pull of [The Maw] (Legendary), chose [Devourer]. Selected class skill Mantle. Gained class skill Predator's Claim.
 
-Day 2: Hunted stone lizards, acquired Slow Mend (Level 8). Purchased Hide Status. Greel warning from Caedmon — those with Greel's gifts usually go feral or are destroyed.
+Greenmonth 5th: Hunted stone lizards, acquired Slow Mend (Level 8). Purchased Hide Status. Greel warning from Caedmon — those with Greel's gifts usually go feral or are destroyed.
 
-Day 3: Assaulted larger goblin camp. Level 112 brute shattered Luther's wrists. Iron Skin failed. Caedmon finished the fight. Luther consumed two brutes, acquired Clotting and Stagger Shout, reached Level 7. Ate amberstone (mana-infused tree sap) for INT/KNO growth. Consumed a Rootstalker corpse, gained Dense Hide, reached Level 9. Leveled Apex Instinct to 5.
-
----
-
-Days 4–5 Summary (Greenmonth 7th–8th)
-
-Day 4: Hunted blackshell ants. Captured five goblins as fodder. Caedmon/Toller reported permanent goblin staging ground run by a drow [Mage], containing thousands of forces. Trained Stagger Shout to 4.
-
-Day 5: Breached second ant colony, crushed the Level 4,718,226 Queen. Reached Level 10, completed Serrated Mandible extraction. Greel issued quest — The Crowned Feast (1/10). Greel granted 1 skill point. Luther upgraded Predator's Claim to Predator's Mandate. Spent Greel point on Mana Well, general point on Low Light Vision.
+Greenmonth 6th: Assaulted larger goblin camp. Level 112 brute shattered Luther's wrists. Iron Skin failed. Caedmon finished the fight. Luther consumed two brutes, acquired Clotting and Stagger Shout, reached Level 7. Ate amberstone (mana-infused tree sap) for INT/KNO growth. Consumed a Rootstalker corpse, gained Dense Hide, reached Level 9. Leveled Apex Instinct to 5.
 
 ---
 
-Days 6–7 Summary (Greenmonth 9th–10th)
+Greenmonth 7th–8th Summary
 
-Day 6: Killed another Queen (not unique, quest stayed 1/10). Scouted staging ground solo — assassinated a bugbear, acquired Scent Nullification. Ambushed a resupply runner.
+Greenmonth 7th: Hunted blackshell ants. Captured five goblins as fodder. Caedmon/Toller reported permanent goblin staging ground run by a drow [Mage], containing thousands of forces. Trained Stagger Shout to 4.
 
-Day 7: Killed three trackers. Acquired Iron Marrow, Tight Jaw, Loping Gait. Raided a forward supply cache. Combined traits: Iron Marrow + Dense Hide + Clotting → Unyielding Frame. Combined skills: Iron Will + Mantle + Anchored → Adamant (Murtha skipped the quest; Luther owes daily prayer + temple visits for one year). Killed a Deeproot Shadow Cat, acquired Rending Claws. Combat Bludgeoning 6→7, Grinding Halt 2→3, Low Light Vision 1→2.
+Greenmonth 8th: Breached second ant colony, crushed the Level 4,718,226 Queen. Reached Level 10, completed Serrated Mandible extraction. Greel issued quest — The Crowned Feast (1/10). Greel granted 1 skill point. Luther upgraded Predator's Claim to Predator's Mandate. Spent Greel point on Mana Well, general point on Low Light Vision.
 
 ---
 
-Day 8 — Rendezvous and Resupply (Greenmonth 11th)
+Greenmonth 9th–10th Summary
+
+Greenmonth 9th: Killed another Queen (not unique, quest stayed 1/10). Scouted staging ground solo — assassinated a bugbear, acquired Scent Nullification. Ambushed a resupply runner.
+
+Greenmonth 10th: Killed three trackers. Acquired Iron Marrow, Tight Jaw, Loping Gait. Raided a forward supply cache. Combined traits: Iron Marrow + Dense Hide + Clotting → Unyielding Frame. Combined skills: Iron Will + Mantle + Anchored → Adamant (Murtha skipped the quest; Luther owes daily prayer + temple visits for one year). Killed a Deeproot Shadow Cat, acquired Rending Claws. Combat Bludgeoning 6→7, Grinding Halt 2→3, Low Light Vision 1→2.
+
+---
+
+Greenmonth 11th — Rendezvous and Resupply
 
 Group ran 100 miles northeast. Caedmon revealed no reinforcements — supply drop only. Trieht Blasterhubt ([Archmage] Level 228, elf, age 971, Thornwall Strategic Command) appeared via projection. Delivered 15 crates of supplies and Mission Severance briefing. Identified Luther immediately — Outerworlder, [Devourer], Greel's mark, Murtha's thread. Confirmed all other expedition teams (15 total) presumed destroyed. Group 16 is the last team operating.
 
@@ -166,7 +166,7 @@ Luther harvested titan sap (5 waterskins). Consumed Whisperweave cloaks, evolved
 
 ---
 
-Day 9 — Staging Ground Assault (Greenmonth 12th)
+Greenmonth 12th — Staging Ground Assault
 
 Two-front assault at nightfall. Caedmon's team hit east with trap corridors. Luther walked through the western gate.
 
@@ -178,7 +178,7 @@ Group linked up. Luther consumed Ryn — acquired Root Command (Level 3) and Fey
 
 ---
 
-Day 10 — Staging Ground Final Assault (Greenmonth 13th)
+Greenmonth 13th — Staging Ground Final Assault
 
 Thalrun had returned. Group pushed through the horde head-on. Caedmon killed the ogres. Luther battered through Thalrun's wards using the Ward-Killer Shortsword, Dispel Chalk, Null Sand, and the counter-resonance bell. Luther killed Thalrun.
 
@@ -190,7 +190,7 @@ Luther practiced Combustion — snaps his fingers to activate. Worked on a flame
 
 ---
 
-Day 11 — Moving South, Linne (Greenmonth 14th)
+Greenmonth 14th — Moving South, Linne
 
 Group moved south through The Deeproot. Luther consumed Deeproot Siphon Turtles, gained Mana Saturation and Mana Shell traits.
 
@@ -204,7 +204,7 @@ Teysa instructed Luther on Root Command — told him to stop forcing and listen 
 
 ---
 
-Day 12 — Solo Encampment Assault (Greenmonth 15th)
+Greenmonth 15th — Solo Encampment Assault
 
 Luther assaulted the goblin encampment 4 miles SE of Linne solo at 1:00 AM. Killed ~491 goblin variants. ~100 escaped south. Consumed what he could (rest too charred). Reached Level 15. Combat Bludgeoning 8→9, Low Light Vision 2→3. Combustion pressed against Level 10 cap, no breakthrough during the fight. Selected new class skill Gorge. Traits reinforced.
 
@@ -214,7 +214,7 @@ Luther spent his general point on Meditation (1→4; developed internal mana-flo
 
 ---
 
-Day 13 — Glass Munitions (Greenmonth 16th)
+Greenmonth 16th — Glass Munitions
 
 Luther realized glass solves his ordnance problems (no mana bleed/merge/degradation). Grabbed Wyn from Linne. Together they built glass munitions — key breakthrough a dual-layer charge (hot core + cooler buffer; air ignites buffer on glass break, cascades to core). Working glass grenades, frag grenades, and claymore charges (60° cone). Combustion 14→15 (new: layered charges of differing intensity in one assembly). Wyn's Summon Glass hit 20 and broke its cap — variant glass types (tempered, laminated, crystalline); Shape Glass 21→23, Heat Protection 13→14. Crystalline glass became the munition standard; enabled land-mine payloads (small/large) for Bevan's triggers.
 
@@ -222,7 +222,7 @@ Evening: Luther sketched a Glock and a Desert Eagle; Wyn built combustion-propel
 
 ---
 
-Day 14 — March South (Greenmonth 17th)
+Greenmonth 17th — March South
 
 Group departed Linne south toward Harren's Mill (60mi) at full composition, ordnance distributed. Bevan had rebuilt Linne's south palisade; Pol drilled and improved. 31 miles south, cleared a ~32-strong goblin waypoint (goblins L71–134, hobgoblins L131–173, worgs L104–119) hauling a cart north. Glass grenades/mines effective on live targets. Continuing south, aiding settlements on the way (the rangers want to help; they could run straight to the center in ~3 days but won't).
 
@@ -247,6 +247,8 @@ Technique: 81
 TITLES
 
 Outerworlder (Legendary) — All base stats +4. Experience gain +20%.
+
+PHYSICAL: Arrived at 36, a 260 lb powerlifter, naturally built (a fair amount was fat). Stats multiply existing capability, so consumption has recomposed him — same frame, now near-entirely dense muscle, harder and heavier than he looks. Still reads as a large, fit human; nothing visibly inhuman.
 
 ────────────────
 
@@ -467,7 +469,7 @@ Rough, direct. Leg treated by Sable, improving.
 [Cleric of Solenne] Level 22 (Rare). Age 24, Female, 5'6". Group 9.
 STR 26 / DEX 22 / END 48 / INT 83 / KNO 63 / CHA 38 / TEC 15
 Key skills: Mending Light (35) [ranged healing at higher mana cost], Bolster (16) [multi-target], Cleansing Touch (9), Field Medicine (15).
-Eleven days in a goblin cage. Calm, measured, professional. Led survivors through captivity. The group's only healer. Freed Day 9.
+Eleven days in a goblin cage. Calm, measured, professional. Led survivors through captivity. The group's only healer. Freed Greenmonth 12th.
 
 ---
 
@@ -475,7 +477,7 @@ Eleven days in a goblin cage. Calm, measured, professional. Led survivors throug
 [Glasser] Level 20. Age 24, Male, 5'10". Group 9.
 STR 26 / DEX 30 / END 32 / INT 62 / KNO 60 / CHA 20 / TEC 61
 Key skills: Summon Glass (20) [variant glass types — tempered, laminated, crystalline], Shape Glass (23) [shaping speed, sharpness beyond material limits, extended range], Heat Protection (14).
-Reactive. Primary combat is summoned/shaped glass. Recognized Hollis Ferrow's smith mark. Freed Day 9. Engineered glass munitions and combustion-propelled glass firearms with Luther on Day 13.
+Reactive. Primary combat is summoned/shaped glass. Recognized Hollis Ferrow's smith mark. Freed Greenmonth 12th. Engineered glass munitions and combustion-propelled glass firearms with Luther on Greenmonth 16th.
 
 ---
 
@@ -483,7 +485,7 @@ Reactive. Primary combat is summoned/shaped glass. Recognized Hollis Ferrow's sm
 [Warrior] Level 16. Age 17, Male, 5'9". Group 5.
 STR 52 / DEX 32 / END 56 / INT 15 / KNO 15 / CHA 11 / TEC 14
 Key skills: Warrior's Swordsmanship (18) [read attacks through weapon contact, reactive counters], Shield Brace (14), Battle Endurance (13).
-Youngest, lowest level, most shaken. Has Shield Brace but no shield. Freed Day 9.
+Youngest, lowest level, most shaken. Has Shield Brace but no shield. Freed Greenmonth 12th.
 
 ---
 
@@ -532,7 +534,7 @@ Weather reaches the forest floor (rain, storms, temperature). Rare: mana rain �
 Southern route: Linne → Harren's Mill (~60mi south, ~10mi short of first ring) → Cairnhollow (~180mi south) → deeper settlements with significantly higher-level inhabitants and stronger monsters.
 
 ### Linne
-Village in The Deeproot, south of the destroyed staging ground. Palisade walls. Soaked Log tavern. Home of prodigies Teysa Vael and Cael Harrick (children; did not join the march). Craftspeople Dorrit (leatherworker) and Fesser (carpenter) made Luther's holster, bandoliers, and vial racks. Group based here Days 12–14; Bevan rebuilt the south palisade. Departed south for Harren's Mill on Day 14.
+Village in The Deeproot, south of the destroyed staging ground. Palisade walls. Soaked Log tavern. Home of prodigies Teysa Vael and Cael Harrick (children; did not join the march). Craftspeople Dorrit (leatherworker) and Fesser (carpenter) made Luther's holster, bandoliers, and vial racks. Group based here Greenmonth 15th–17th; Bevan rebuilt the south palisade. Departed south for Harren's Mill on Greenmonth 17th.
 
 ### Harren's Mill
 Settlement ~60 miles south of Linne on the southern route. Sits ~10 miles short of the first mana density ring — last town before saturation steps up.
@@ -567,17 +569,19 @@ Current status: Fifteen groups confirmed destroyed. Several unaccounted for. Gro
 
 Seven members. On the southern route, between Linne and Harren's Mill.
 
+Command: Sable, Wyn, and Pol are under Caedmon's command. Luther is not under anyone — works alongside them, shares his growth, does what he judges best, would leave if pushed. Caedmon plans around it.
+
 ## Mission Target
 
-The center holds a duo: Veleth — drow [Sorcerer], ~Level 65, controlling the mana anomaly — and an unknown [Warrior] (race/level unknown). Kill the duo, end the ritual.
+The center holds a duo: Veleth — drow [Sorcerer], ~Level 65, controlling the mana anomaly — and an unknown [Warrior] (race/level unknown), roughly equal to Veleth (~65). Partners, not one over the other. Kill the duo, end the ritual.
 
-They are not the top of the chain. This forest is one front of a larger goblin invasion led by a goblin matriarch (past Level 700) in the kingdom over; killing the duo cuts one head, not the body. Thalrun Vel'Sharen (drow [Fire Mage], Level 47, killed Day 10) was one officer of several — other classed lieutenants and forces remain between the outskirts and the center. ~100 goblins escaped south on Day 12 and will likely warn what's ahead.
+They are not the top of the chain. This forest is one front of a larger goblin invasion led by a goblin matriarch (past Level 700) in the kingdom over; killing the duo cuts one head, not the body. The forest is a major leveling ground for the goblin army — fresh variants are funneled in to grow and harden. Thalrun Vel'Sharen (drow [Fire Mage], Level 47, killed Greenmonth 13th) was one officer of many — roughly 30–40 classed leaders (commonly Level 35–50) are scattered across the whole forest (not just the southern line), each running staging grounds, camps, and patrols. ~100 goblins escaped south on Greenmonth 15th and will likely warn what's ahead.
 
 ---
 
 # SUPPLIES
 
-Mission Severance supplies delivered Day 8 via teleport. Provisioned for 10 personnel / 56 days.
+Mission Severance supplies delivered Greenmonth 11th via teleport. Provisioned for 10 personnel / 56 days.
 
 RATIONS: Hardbread, dried meat, travel cake, dried fruit (10-person/56-day). Mineral salt blocks (10). Tea bricks (stimulant blend: addictive, max 2 cups/6 hrs). Water purification stones (10, reusable, mana-replenishing). Enchanted waterskins (10, 5L each). Firestarter kits x10.
 
@@ -599,4 +603,4 @@ SHELTER: Oiled canvas tarps x10. Bedrolls x10. Snarl Wool blankets x10.
 
 SEALED: Bag of holding (max 5000 lbs). Sealed mission orders.
 
-DISTRIBUTION (Day 10 — post-rescue): Medical supplies consolidated under Sable. Pol got longsword (no shield available). Wyn got shortsword/throwing axes (glass is primary). All three fully armored/cloaked. Caedmon holds Ward-Killer Shortsword.
+DISTRIBUTION (Greenmonth 13th — post-rescue): Medical supplies consolidated under Sable. Pol got longsword (no shield available). Wyn got shortsword/throwing axes (glass is primary). All three fully armored/cloaked. Caedmon holds Ward-Killer Shortsword.

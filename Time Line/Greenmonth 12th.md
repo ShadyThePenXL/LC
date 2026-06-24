@@ -1,4 +1,4 @@
-**Day 9 — Staging Ground Assault (Greenmonth 12th)**
+**Greenmonth 12th — Staging Ground Assault**
 
 [[Toller Finch|Toller]] scouted the staging ground at dawn. Guard patterns had shifted from [[Luther Culvert|Luther]]'s earlier kills. [[Bevan Roe|Bevan]] and [[Cademon Vale|Cademon]] and Toller spent the day setting trap corridors along the eastern areas surrounding the base. 
 
@@ -22,4 +22,4 @@ Luther spent an hour practicing [[Root Command]] in [[The Deeproot]]. He learned
 
 Luther hit the camp a second time. He battered through a reinforced western barricade and carved through the camp setting fires with stolen torches. The western half of the staging ground burned. Luther killed numerous [[Goblin|goblins]], [[Hobgoblin|hobgoblins]], [[Orc|orcs]], and [[Bugbear|bugbears]] across both runs. Caedmon's team struck the eastern corridors again during the chaos. The clock ticked over to midnight.
 
-[[Day 10]]
+[[Greenmonth 13th]]

@@ -15,15 +15,17 @@ Twenty-five groups deployed simultaneously into [[The Deeproot]] by [[Thornwall]
 The center of [[The Deeproot]] is held by a duo:
 
 - A drow [Sorcerer] named **Veleth** — roughly Level 65. Controls the mana anomaly / barrier ritual.
-- A **[Warrior]** of some kind — identity, race, and level unknown.
+- A **[Warrior]** of some kind — identity, race, and level unknown, but roughly equal to Veleth (~Level 65). The two are partners, not one over the other.
 
 Kill the duo, end the ritual. That is the mission.
 
 The duo are not the top of the chain. This forest is one front in a far larger goblin invasion of the region. The invasion as a whole is believed to be led by a goblin matriarch — something past Level 700 — seated in the kingdom over. The duo and their forces in the Deeproot are a single part of that war; killing them cuts off one head, not the body.
 
-The duo command more than the staging ground. [[Thalrun Vel'Sharen]], the [Fire Mage] who ran it, was one officer among several. Other classed lieutenants and their forces remain scattered through the deep forest between the outskirts and the center.
+The forest is being used as a major leveling ground for the goblin army — fresh goblin variants are funneled in to fight, grow, and harden before being deployed elsewhere. That is part of why the place is so thick with them.
 
-Roughly a hundred goblin variants escaped south from the encampment Luther destroyed on [[Day 12]]. They will likely carry word ahead — surprise on the southern route should not be assumed.
+The duo command more than the staging ground. [[Thalrun Vel'Sharen]], the [Fire Mage] who ran it, was one officer among many. Roughly thirty to forty classed leaders (commonly in the Level 35–50 range, like Thalrun) are scattered across the whole forest — not strung along the southern line, but spread throughout — each running staging grounds, forward camps, and patrol networks.
+
+Roughly a hundred goblin variants escaped south from the encampment Luther destroyed on [[Greenmonth 15th]]. They will likely carry word ahead — surprise on the southern route should not be assumed.
 
 ---
 

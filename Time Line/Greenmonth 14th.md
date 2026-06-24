@@ -1,3 +1,5 @@
+Greenmonth 14th — Moving South and Skill Growth
+
 Luther continues his practice and clocks out at like 3 am sleeping for two hours before continuing on.
 
 The group moves through the forest, luther all the way spamming fire at random bushes. Getting deeper into the forest luther finds some turtle creatures. getting 
@@ -50,4 +52,4 @@ Luther met [[Teysa Vael]] ([Verdant Warden] Level 26, Rare, age 15) and [[Cael H
 
 [[Cademon Vale|Caedmon]] briefed Luther on a goblin encampment four miles southeast — approximately 600 strong, launching raids on [[Linne]]. Planned assault for the following night.
 
-[[Day 12]]
+[[Greenmonth 15th]]

@@ -1,3 +1,5 @@
+Greenmonth 13th — Staging Ground Final Assault
+
 [[Luther Culvert|Luther]] looped around after causing his chaos. The camp was weak — nothing over level 200 was really there with the [[Goblin|goblin]] variants' hollow levels they were not much of a threat, though a level 80 [[Ogre|ogre]] did put up a good fight. 
 
 Eventually the goblin camp sounded a horn which started pulling them all to the center to group up. Luther made it to the gate [[Cademon Vale|Cademon]]'s group should be at and waited for them to finish killing whatever was out there.
@@ -74,5 +76,5 @@ He decides that every time he activates combustion he will snap his fingers just
 
 He spends some time working on getting a good flame thrower effect going and is working on that. the clock hits midnight
 
-[[Day 11]]
+[[Greenmonth 14th]]
 

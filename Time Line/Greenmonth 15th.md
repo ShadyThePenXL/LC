@@ -1,3 +1,5 @@
+Greenmonth 15th — Solo Encampment Assault
+
 [[Luther Culvert|Luther]] went to the goblin encampment four miles southeast of [[Linne]] solo at approximately 1:00 AM on Greenmonth 15th. Approached the northern entrance and walked through the sentries. Assaulted the camp alone using [[Combustion]] and mace. Killed approximately 491 goblin variants. Roughly 100 escaped south. Consumed what he could — the rest were too charred to be worth eating. Reached Level 15.
 
 [[Combat Bludgeoning]] leveled 8 to 9. [[Low Light Vision]] leveled 2 to 3. [[Combustion]] pressed against its Level 10 soft cap during the assault — no breakthrough yet.

@@ -17,6 +17,12 @@ Outerworlder (Legendary) — All base stats +4. Experience gain +20%.
 
 ────────────────
 
+PHYSICAL
+
+Arrived at 36, a 260 lb powerlifter — naturally built, never enhanced, so a fair amount of that weight was fat. Stats multiply existing capability, so twelve days of consumption and trait integration have recomposed him: roughly the same frame, now near-entirely dense muscle, harder and heavier than he looks. To the eye he still reads as a large, fit human — nothing visibly inhuman.
+
+────────────────
+
 CLASS SKILLS — Devourer
 
 [[Adamant]] (Level 1) — The [Devourer] has resistance to mental, magical, and environmental pressure massively increased. Stress accumulation reduced, shock recovery accelerated, compulsions are easier to notice, and passive mana absorption from high-density environments improved. Active — can be toggled.

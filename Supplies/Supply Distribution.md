@@ -1,8 +1,8 @@
-SUPPLY DISTRIBUTION — [[Day 8]] (Initial) and [[Day 10]] (Post-Rescue)
+SUPPLY DISTRIBUTION — [[Greenmonth 11th]] (Initial) and [[Greenmonth 13th]] (Post-Rescue)
 
 ────────────────
 
-INITIAL DISTRIBUTION — [[Day 8]]
+INITIAL DISTRIBUTION — [[Greenmonth 11th]]
 
 Supplies arrived via teleport at the rendezvous point. [[Cademon Vale|Caedmon]] distributed gear to his three-man patrol plus [[Luther Culvert|Luther]].
 
@@ -23,18 +23,18 @@ Heavy mace (Mithril Steel Alloy) — 2 daggers (Mithril Steel Alloy) — 1 long 
 
 ────────────────
 
-ITEMS CONSUMED OR LOST BEFORE RESCUE — [[Day 8]] through [[Day 9]]
+ITEMS CONSUMED OR LOST BEFORE RESCUE — [[Greenmonth 11th]] through [[Greenmonth 12th]]
 
 Luther consumed several Whisperweave cloaks to evolve [[Predator's Mandate]] to Level 8, gaining [[Muffle]].
-Luther used 1 stick Dispel Chalk during the Ryn fight ([[Day 9]]).
-Luther gave 1 low-grade healing potion to the freed prisoners ([[Day 9]]).
-Luther gave titan sap to the freed prisoners ([[Day 9]]).
+Luther used 1 stick Dispel Chalk during the Ryn fight ([[Greenmonth 12th]]).
+Luther gave 1 low-grade healing potion to the freed prisoners ([[Greenmonth 12th]]).
+Luther gave titan sap to the freed prisoners ([[Greenmonth 12th]]).
 Scrying burn tickets used throughout (exact count unknown, large supply remains).
-Various arrows expended during staging ground assault ([[Day 9]]).
+Various arrows expended during staging ground assault ([[Greenmonth 12th]]).
 
 ────────────────
 
-POST-RESCUE DISTRIBUTION — [[Day 10]]
+POST-RESCUE DISTRIBUTION — [[Greenmonth 13th]]
 
 After the staging ground assault, [[Cademon Vale|Caedmon]] outfitted the three freed prisoners from remaining supplies. Provisioned for 10, only 7 in the group — surplus gear available.
 

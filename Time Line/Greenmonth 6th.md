@@ -1,4 +1,4 @@
-Day 3 — Second Goblin Camp (Greenmonth 6th)
+Greenmonth 6th — Second Goblin Camp
 
 The group assaulted a larger [[Goblin|goblin]] camp. A Level 112 [[Goblin Brute|brute]] shattered [[Luther Culvert|Luther]]'s wrists. Luther dropped [[Iron Will]] to fight feral, eating mid-combat. [[Iron Skin]] failed. 
 
@@ -14,4 +14,4 @@ Luther scavenged the corpse, gaining [[Dense Hide]] and reaching Level 9. Back a
 
 Caedmon explained the difference between creatures, monsters, and classed beings. Luther meditated for five hours, leveling [[Apex Instinct]] to 5. Caedmon warned that ambient mana fuels detection skills in [[The Deeproot]], and mages are immensely powerful here.
 
-[[Day 4]]
+[[Greenmonth 7th]]

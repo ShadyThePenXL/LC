@@ -48,9 +48,9 @@ The bearer can enter a focused state to accelerate mana recovery.
 
 Reactive. One eye swollen shut. Knows his gear — recognized Hollis Ferrow's smith mark on sight. Wants to fight.
 
-On [[Day 13]] Wyn worked with [[Luther Culvert|Luther]] to engineer glass munitions — dual-layer-charge grenades, claymore charges, land-mine payloads, and crystalline-glass firearms (pistol and heavy variant). Crystalline glass became the munitions standard. His [[Summon Glass]] broke its soft cap during the work.
+On [[Greenmonth 16th]] Wyn worked with [[Luther Culvert|Luther]] to engineer glass munitions — dual-layer-charge grenades, claymore charges, land-mine payloads, and crystalline-glass firearms (pistol and heavy variant). Crystalline glass became the munitions standard. His [[Summon Glass]] broke its soft cap during the work.
 
-Freed by [[Luther Culvert]] during the staging ground assault on [[Day 9]].
+Freed by [[Luther Culvert]] during the staging ground assault on [[Greenmonth 12th]].
 
 See: [[Caedmon's Group]]
 

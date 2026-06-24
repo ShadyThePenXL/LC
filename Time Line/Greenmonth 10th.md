@@ -1,4 +1,4 @@
-Day 7 — Tracker Response and Combat (Greenmonth 10th)
+Greenmonth 10th — Tracker Response and Combat
 
 Three trackers who were investigating the missing [[Bugbear|bugbears]]. [[Luther Culvert|Luther]] defeated them, acquiring [[Iron Marrow]] from a [[Hobgoblin|hobgoblin]], [[Tight Jaw]] from another, and [[Loping Gait]] from a [[Worg]].
 
@@ -18,4 +18,4 @@ Luther continued southeast looking for stronger prey. He found a [[Deeproot Shad
 
 Skills leveled to [[Combat Bludgeoning]] 6→7, [[Grinding Halt]] 2→3, [[Low Light Vision]] 1→2. [[Stagger Shout]] pressing against Level 5 soft cap but has not broken through. Luther returned to the vault and slept.
 
-[[Day 8]]
+[[Greenmonth 11th]]

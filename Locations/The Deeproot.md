@@ -16,6 +16,10 @@ Mana sickness is about acclimation, not level. A low-level traveler can go as de
 
 Weather reaches the forest floor despite the canopy — rain, temperature shifts, and storms still factor into travel and combat. Rarely, mana rain occurs: ambient mana lifted from the forest gathers into clouds and drips back down into the soil. It is uncommon and notable when it happens.
 
+### The Goblin Presence
+
+The forest is being used as a major leveling ground for the goblin army — fresh goblin variants are funneled in to fight, grow, and harden before being deployed to other fronts. This is part of why the place is so thick with them, and why monster levels climb so steeply toward the center. The Deeproot operation answers to the [Sorcerer]/[Warrior] duo at the center, who in turn answer to a goblin matriarch (past Level 700) leading the wider invasion from the kingdom over. Roughly 30–40 classed leaders (commonly Level 35–50) run staging grounds, camps, and patrols scattered across the whole forest. See [[Deeproot Expedition]] for detail.
+
 ### Deep Forest Inhabitants
 
 Rumors suggest the settlements and people deeper in the forest are far stronger than those on the outskirts. Most people deeper in are powerful in their own right — [[Mana Warden|Mana Wardens]] are the least of their worries. People who live deep in the forest rarely leave. Adapting to lower mana environments after years of saturation is difficult, and most simply don't want to come out.
