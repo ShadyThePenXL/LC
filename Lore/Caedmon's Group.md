@@ -38,20 +38,22 @@ By the time [[Luther Culvert]] arrived on Greenmonth 4th, only Caedmon, Toller, 
 
 **Greenmonth 16th:** Luther and [[Wyn Drace]] engineered glass munitions at the practice camp — dual-layer-charge grenades, claymore charges, land-mine payloads, and crystalline-glass firearms (a pistol and a heavier variant, combustion-propelled). Combustion reached Level 15; Wyn's [[Summon Glass]] broke its soft cap. [[Bevan Roe|Bevan]] rebuilt Linne's southern palisade. [[Pol Harren|Pol]] drilled under Caedmon.
 
-**Greenmonth 17th:** Group departed [[Linne]] south toward [[Harren's Mill]] (60 miles). Cleared a ~32-strong goblin waypoint 31 miles south. Continuing toward the center, aiding settlements along the way.
+**Greenmonth 17th:** Group departed [[Linne]] south toward [[Harren's Mill]] (60 miles). Cleared a ~32-strong goblin waypoint, then reached [[Harren's Mill]] under full siege (~5,000 goblin variants, four days in). Ran the gauntlet and breached the northeast wall. A dusk sortie destroyed the southeast shaman line and broke the siege pressure. Luther reached Level 16 consuming the field that night. Met garrison commander [[Edric Holm]], wall captain [[Maren Ashell]], and the town [[Harren's Mill Mages|Mages]].
+
+**Greenmonth 18th:** ~12:50 AM, Luther solo-struck the reinforced southeast line (~1,000 strong), using an omnidirectional shockwave to break their shield walls and killing the surviving ogre. Sprinted to the first mana density ring, weathered mana sickness via [[Adamant]], and killed the three escaped shamans. Group holding at [[Harren's Mill]].
 
 ---
 
-### Current Composition (as of Greenmonth 17th)
+### Current Composition (as of Greenmonth 18th)
 
 - [[Cademon Vale]] — [Hunter], Level 35
 - [[Toller Finch]] — [Scout], Level 18
 - [[Bevan Roe]] — [Trapper], Level 23 (leg treated, improving)
-- [[Luther Culvert]] — [Devourer], Level 15
+- [[Luther Culvert]] — [Devourer], Level 16
 - [[Sable Mott]] — [Cleric of Solenne], Level 22, Rare (freed prisoner, Group 9)
 - [[Wyn Drace]] — [Glasser], Level 20 (freed prisoner, Group 9)
 - [[Pol Harren]] — [Warrior], Level 16 (freed prisoner, Group 5)
 
-Seven members. On the southern route, between [[Linne]] and [[Harren's Mill]].
+Seven members. At [[Harren's Mill]].
 
 **Command structure:** [[Sable Mott|Sable]], [[Wyn Drace|Wyn]], and [[Pol Harren|Pol]] have fallen in under [[Cademon Vale|Caedmon]]'s command as part of the group. [[Luther Culvert|Luther]] is not under anyone — he works alongside them and shares his growth, but does what he judges best and would simply leave if pushed. Caedmon has accepted this and plans around it.

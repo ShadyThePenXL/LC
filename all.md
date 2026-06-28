@@ -68,6 +68,10 @@ Skill points: 1 general + 1 class every 5 levels (5, 10, 15...). Class skill sel
 
 System notifications: Whenever a status shifts, the System announces it in a short bracket. [Through consumption you have grown. Strength 126 → 128] / [Level Up! Level 14 → 15] / [+2 Strength, +4 Endurance, +2 Technique, +1 Dexterity] / [Level Up! Combustion Level 14 → 15]. Soft cap breaks and skill/trait gains are announced the same way.
 
+XP split (Luther/Devourer): ~40% from the kill, ~60% from eating the body. XP resets to 0 after each level.
+
+XP to next level (Luther's band): Lv16→9,000 · Lv17→13,000 · Lv18→18,000 · Lv19→24,000 · Lv20→28,000 · Lv21→32,000.
+
 ---
 
 ## Traits
@@ -91,6 +95,16 @@ Magic is common and everyday — shops use it, chores involve it.
 Two paths: A casting class (built-in channeling) or independent skill acquisition (any classed individual can buy casting skills via general points — a [Farmer] with a fire cantrip is not a [Mage] but has the skill). Basic cantrips on the general list: light, spark, minor push.
 
 Mages are immensely powerful in mana-dense environments because the environment fuels them for free.
+
+Mana types are distinct: ambient mana, a skill's mana, the mana bound in a being's levels, and the internal Intellect reserve are all different and don't interchange. This is why Luther can't detonate the mana inside a body or burn away someone's levels — that mana is bound, not loose fuel. Luther doesn't know this; he assumes mana is mana.
+
+Mana shaping: Mana can be shaped, and casting classes teach it innately; control varies by training/skill/talent. In base form mana does nothing — left alone it flickers into random effects; shaping is taking control of it and holding it to a purpose (the control IS the effect — let go and it stops). A shaper can't make mana burn without controlling it. Luther has decent control from the Combustion Memory: ~30 ft full control, loses a lot toward 60 ft, next to nothing past ~80 ft.
+
+---
+
+## Currency (Thornwall)
+
+10 Copper = 1 Silver · 10 Silver = 1 Crown · 10 Crown = 1 Scepter. (Haircut ~2 copper; low-grade healing potion ~40 crowns.) Other kingdoms may differ. Coin is tracked silently.
 
 ---
 
@@ -222,9 +236,19 @@ Evening: Luther sketched a Glock and a Desert Eagle; Wyn built combustion-propel
 
 ---
 
-Greenmonth 17th — March South
+Greenmonth 17th — March South & Siege of Harren's Mill
 
-Group departed Linne south toward Harren's Mill (60mi) at full composition, ordnance distributed. Bevan had rebuilt Linne's south palisade; Pol drilled and improved. 31 miles south, cleared a ~32-strong goblin waypoint (goblins L71–134, hobgoblins L131–173, worgs L104–119) hauling a cart north. Glass grenades/mines effective on live targets. Continuing south, aiding settlements on the way (the rangers want to help; they could run straight to the center in ~3 days but won't).
+Group departed Linne south at full composition, cleared a ~32-strong goblin waypoint, then reached Harren's Mill under full siege — ~5,000 goblin variants (goblins L77–142 up to ogres L214–221), four days in, drawing fresh troops from the first ring just south. Ran the gauntlet and breached the northeast wall. Met garrison commander Edric Holm ([Knight] 38), wall captain Maren Ashell ([Sentinel] 31), and four exhausted town [Mages] holding wards against eight goblin shamans on the southeast.
+
+Dusk sortie: Luther led out and fired directed air-pressure shockwaves (compressing ambient air with micro-combustions), broke the brute shield wall, and collapsed the shaman ward with the wall Mages. Rocket-jumped (combustion under the boots) to free Caedmon; downed the L214 ogre with an enhanced glass round + the wall volley. Siege pressure broke; goblins pulled back half a mile. Evening: haircut from Osser Brynn ([Trimmer] 29), then ate the field (~47 bodies + ogre assist) → Level 16. Traits reinforced (Unyielding Frame moderate; Crushing Weight, War Hide, Enhanced Magic, Mana Saturation early).
+
+---
+
+Greenmonth 18th — Solo Strike & First Ring
+
+~12:50 AM, against Caedmon's advice, Luther crawled toward the reinforced southeast line (~1,000 strong, fresh ogre, no shamans) — Muffle 1→3 on the crawl. Charged in, got boxed by shield walls, planted and built a 12-second omnidirectional shockwave (1 full Mana Well + ¾ refill) that flattened a 100-yard radius (~100+ kills) — shield walls are useless against omnidirectional force. Killed the L221 ogre with mace + dual-source flamethrower. Then sprinted 10 miles to the first mana density ring for fun — mana sickness from rushing, managed by Adamant; Mana Well flooded full in <2s. The three escaped shamans ambushed him (cracked his sternum through Adamant); first-ring density made his Combustion detonate ambient mana on ignition — all three killed and consumed.
+
+Discoveries: combustion is not inherently burning (covers the whole process — propulsion/rocket-jumps, air-pressure shockwaves, omnidirectional bursts); glass pistol confirmed in combat; Gorge revealed to Caedmon.
 
 ---
 
@@ -232,23 +256,27 @@ Group departed Linne south toward Harren's Mill (60mi) at full composition, ordn
 
 ---
 
-CLASS: Devourer — Level 15 **(STR +2 / END +4 / TEC +2 / DEX +1)**
+CLASS: Devourer — Level 16 **(STR +2 / END +4 / TEC +2 / DEX +1)**
+
+XP: 1,650 / 9,000 (resets to 0 on level-up)
 
 ATTRIBUTES
 
-Strength: 128
-Dexterity: 53
-Endurance: 169
-Intellect: 90
-Knowledge: 45
+Strength: 134
+Dexterity: 56
+Endurance: 177
+Intellect: 94
+Knowledge: 48
 Charm: 13
-Technique: 81
+Technique: 85
+
+BASE (natural, pre-class/title): STR 16 / DEX 12 / END 12 / INT 10 / KNO 12 / CHA 12 / TEC 14
 
 TITLES
 
 Outerworlder (Legendary) — All base stats +4. Experience gain +20%.
 
-PHYSICAL: Arrived at 36, a 260 lb powerlifter, naturally built (a fair amount was fat). Stats multiply existing capability, so consumption has recomposed him — same frame, now near-entirely dense muscle, harder and heavier than he looks. Still reads as a large, fit human; nothing visibly inhuman.
+PHYSICAL: 5'9.5" without boots. Frame unchanged from arrival; stats multiply existing capability, so the 260 lb naturally-built powerlifter (some of it fat) has recomposed into dense muscle — harder/heavier than he looks, still reads as a fit human. A Black man with golden-blonde curly hair and a black beard.
 
 ────────────────
 
@@ -300,7 +328,7 @@ Low Light Vision (Level 3) — Visual acuity in low-light conditions substantial
 
 (Notes from levels) (Adjustment between differing light conditions occurs more rapidly. Detail resolution in near-darkness increased.)
 
-Muffle (Level 1) — Passive. Sound generated by the bearer's movement reduced.
+Muffle (Level 3) — Passive. Sound generated by the bearer's movement significantly reduced. Ambient sounds near the bearer are slightly dampened.
 
 Meditation (Level 4) — The [Devourer] can enter a focused state to accelerate mana recovery. (Awareness of internal mana flow developed.)
 
@@ -318,13 +346,15 @@ Combustion (Level 15) — The [Devourer] can create, sustain, and shape combusti
 
 (Notes from levels) Intensity adjustable from ember to violent burn. Multiple combustion points can be maintained with minimal concentration. Flame path and spread may be directed after ignition. Heat may be concentrated or dispersed independently of visible flame. Ignition chain projection dramatically extended. Combustion energy may be compressed and projected as directed concussive force, detonating on contact or at a set distance. Layered combustion charges of differing intensity may be constructed within a single assembly, maintaining separation until triggered.
 
+[Note: combustion is not inherently burning — Luther's control covers the whole process, enabling concussive air-pressure shockwaves (including omnidirectional) and combustion propulsion (rocket-jumps). Practiced applications running ahead of the text.]
+
 ────────────────
 
 [TRAITS]
 
 Unyielding Frame — Luther's bones, skin, and blood vessels reinforce. Blunt force is dispersed through increased bone density. Cutting and piercing injuries are resisted through skin hardening. Blood loss from open wounds is actively suppressed. Luther's body adapts rapidly to repeated physical stress. Bone, skin, and circulatory tissue continue to strengthen through mana absorption, exertion, and trauma.
 
-(Current integration: early.)
+(Current integration: moderate.)
 
 Ravenous Constitution — Luther can digest consumed matter with extreme efficiency. Mana-dense material is actively broken down and integrated into his body. Physical volume limitations are reduced. Spoiled, toxic, or uncooked material causes no harm when consumed. Luther can consume and process large quantities of matter at an accelerated rate.
 
@@ -358,11 +388,11 @@ Current intensity: early.
 
 Crushing Weight — Luther's mass and density increase the impact force of downward and overhead strikes. Ground beneath Luther compresses under sustained pressure.
 
-Current intensity: minimal.
+Current intensity: early.
 
 Mana Saturation — Luther's body passively absorbs and retains ambient mana at high density. Internal mana concentration remains elevated even in low-mana environments.
 
-Current saturation: minimal.
+Current saturation: early.
 
 Mana Shell — Luther's outer tissue reinforces itself through sustained mana absorption, increasing in density and hardness proportional to mana exposure over time.
 
@@ -370,7 +400,7 @@ Current density: minimal.
 
 Enhanced Magic — Luther's mana interacts more potently with active skills. Abilities driven by mana produce stronger results relative to the energy invested.
 
-Current intensity: minimal.
+Current intensity: early.
 
 ────────────────
 
@@ -424,7 +454,7 @@ Satchel (Ryn's — contents: potions, not useful)
 
 4 Enchanted 5 Liter Waterskins (empty)
 
-Standard field supplies (scrying tickets, water stone, firestarter, wound powder, salve, 2 low-grade healing potions, Dispel Chalk (reduced), Null Sand (1 pouch remaining))
+Standard field supplies (scrying tickets, water stone, firestarter, wound powder, salve, 1 low-grade healing potion (1 given to Osser Brynn), Dispel Chalk (reduced), Null Sand (1 pouch remaining))
 
 Crystalline Glass Pistol — standard (Glock-pattern, 8" rifled barrel) + leather hip holster
 
@@ -499,6 +529,26 @@ Youngest, lowest level, most shaken. Has Shield Brace but no shield. Freed Green
 
 ---
 
+### Edric Holm
+[Knight] Level 38. Age 44, Male, 6'0". Garrison commander of Harren's Mill. Held the town through four days of siege. Steady, competent, recalibrates quickly. Committed 60 fighters to the dusk sortie.
+
+---
+
+### Maren Ashell
+[Sentinel] Level 31. Age 29, Female, 5'7". Wall-watch captain, Harren's Mill (northeast battlement). 31 hours without sleep when the group arrived; first to see Luther's corridor run.
+
+---
+
+### Osser Brynn
+[Trimmer] Level 29. Age 52, Male, 5'6". Harren's Mill. Repairs hair via cantrip and regrows beards through skill-work (~4 min). Cut Luther's hair / regrew his beard — paid a low-grade healing potion (~40 crowns) for a 2-copper haircut.
+
+---
+
+### Harren's Mill Mages
+Four town [Mages] who held the wards through the siege. **Carys** — old, experienced, held the southeast ward four days; hit the ogre with a force beam in the sortie. **Tomas** — age 19, exhausted, shaking hands. **Aldric & Fenn** — the other two, contributed to wall defense.
+
+---
+
 # GODS
 
 ---
@@ -557,17 +607,17 @@ Twenty-five groups deployed by Thornwall Military Command under Trieht Blasterhu
 
 Current status: Fifteen groups confirmed destroyed. Several unaccounted for. Group 16 (Caedmon's) is the last confirmed operating.
 
-## Caedmon's Group — Current Composition (Greenmonth 17th)
+## Caedmon's Group — Current Composition (Greenmonth 18th)
 
 - Cademon Vale — [Hunter], Level 35
 - Toller Finch — [Scout], Level 18
 - Bevan Roe — [Trapper], Level 23 (leg improving)
-- Luther Culvert — [Devourer], Level 15
+- Luther Culvert — [Devourer], Level 16
 - Sable Mott — [Cleric of Solenne], Level 22, Rare
 - Wyn Drace — [Glasser], Level 20
 - Pol Harren — [Warrior], Level 16
 
-Seven members. On the southern route, between Linne and Harren's Mill.
+Seven members. At Harren's Mill.
 
 Command: Sable, Wyn, and Pol are under Caedmon's command. Luther is not under anyone — works alongside them, shares his growth, does what he judges best, would leave if pushed. Caedmon plans around it.
 
